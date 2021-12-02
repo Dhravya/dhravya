@@ -38,8 +38,10 @@
 
 
 <div align="center">
+<a href="https://dhravya.me">
 <h2>Check out my website!!</h2>
-<iframe src="https://dhravya.me" scrolling="yes" width="400" height="400" align="center"></iframe>
+<img src="https://i.imgur.com/fEuuQQE.png">
+</a>
 </div>
 
 ### Here is a random meme for you, to make your day better
