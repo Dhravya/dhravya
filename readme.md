@@ -14,8 +14,9 @@
 - 💬 [Ask me](https://discord.gg/rqhgqTqFbp) about anything, I am happy to help
 - 📫 How to reach me: [Join discord](https://discord.gg/rqhgqTqFbp) or [dhravyashah@gmail.com](mailto:dhravyashah@gmail.com)
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhravya&count_private=true&show_icons=true&theme=cobalt" align="center">
-
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dhravya&count_private=true&show_icons=true&theme=cobalt">
+</div>
 
 ## Languages and Tools:
 **Programming Languages**
