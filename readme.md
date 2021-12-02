@@ -39,9 +39,7 @@
 
 <div align="center">
 <h2>Check out my website!!</h2>
-<a href="https://dhravya.me">
 <iframe src="https://dhravya.me" scrolling="yes" width="400" height="400" align="center"></iframe>
-</a>
 </div>
 
 ### Here is a random meme for you, to make your day better
