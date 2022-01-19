@@ -6,7 +6,7 @@
 
 ## ✨ Some stuff about me
 - 👨🏽‍💻 I’m currently working on [A lot of things, a lot.](https://dhravya.me)
-- Mainly a python developer
+- I'm most experienced in Python, Javascript, and tailwindcss websites
 - 🤔 Looking for projects to collaborate on / collaborators for my projects
 - 💻 Currently learning React and C.
 - 🌱  Love for science and innovation.
