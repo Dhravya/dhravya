@@ -5,10 +5,10 @@
 </div>
 
 ## ✨ Some stuff about me
-- 👨🏽‍💻 I’m currently working on [Millenia](https://millenia.tech)
+- 👨🏽‍💻 I’m currently working on [A lot of things, a lot.](https://dhravya.me)
 - Mainly a python developer
 - 🤔 Looking for projects to collaborate on / collaborators for my projects
-- 💻 Currently learning Javascript and C.
+- 💻 Currently learning React and C.
 - 🌱  Love for science and innovation.
 - 🤖 I'm a Discord verified bot developer and have made [Spacebot](https://top.gg/bot/881862674051391499) and [Millenia](https://millenia.tech)
 - 💬 [Ask me](https://discord.gg/rqhgqTqFbp) about anything, I am happy to help
@@ -41,7 +41,7 @@
 <div align="center">
 <a href="https://dhravya.me">
 <h2>Check out my website!!</h2>
-<img src="https://i.imgur.com/fEuuQQE.png">
+<img src="https://dhravya.me/static/images/twitter-card.png">
 </a>
 </div>
 
