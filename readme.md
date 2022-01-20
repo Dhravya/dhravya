@@ -15,7 +15,12 @@
 - 📫 How to reach me: [Join discord](https://discord.gg/rqhgqTqFbp) or [dhravyashah@gmail.com](mailto:dhravyashah@gmail.com)
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dhravya&count_private=true&show_icons=true&theme=cobalt">
+<img src="https://github-readme-stats.vercel.app/api?username=dhravya&count_private=true&show_icons=true&theme=cobalt" alt="Github Readme stats">
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhravya&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"
+alt="Github streaks">
 </div>
 
 ## Languages and Tools:
@@ -38,12 +43,18 @@
 <br>
 
 
+
 <div align="center">
 <a href="https://dhravya.me">
 <h2>Check out my website!!</h2>
 <img src="https://dhravya.me/static/images/twitter-card.png">
 </a>
 </div>
+
+### 📱 Latest Tweets
+
+<!-- TWITTER:START -->
+<!-- TWITTER:END -->
 
 ### Here is a random meme for you, to make your day better
 Meme sourced through [DhravyaAPI](https://api.dhravya.me)
