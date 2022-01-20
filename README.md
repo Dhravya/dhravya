@@ -54,6 +54,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@DhravyaShah: &quot;Stop following me&quot; - Jude, 2022](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa687bdc170a9b65d768e6c613731c833a)
+- [@javascriptual: Retweet if you can code. Like if it&#39;s true.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e153ea4e0d1e19513959272c6ee50b648389c9b2beca36e75df100f9767d761e7ca11781d833dc06a)
+- [@DhravyaShah: to all developers:  exists, you can use it for free!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7a56375dc13099060dd6fe8c4167e12823c)
+- [@DhravyaShah:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7a5627bd8150d9167d36ce5c11479138e38)
+- [@DhravyaShah: Cloudflare has helped me save 692 MB in the last month. #cloudflare](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7a5627bda160f9068dd6ee6c21a7c178d3b)
 <!-- TWITTER:END -->
 
 ### Here is a random meme for you, to make your day better
