@@ -54,11 +54,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah: &quot;Stop following me&quot; - Jude, 2022](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa687bdc170a9b65d768e6c613731c833a)
-- [@javascriptual: Retweet if you can code. Like if it&#39;s true.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e153ea4e0d1e19513959272c6ee50b648389c9b2beca36e75df100f9767d761e7ca11781d833dc06a)
-- [@DhravyaShah: to all developers:  exists, you can use it for free!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7a56375dc13099060dd6fe8c4167e12823c)
-- [@DhravyaShah:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7a5627bd8150d9167d36ce5c11479138e38)
-- [@DhravyaShah: Cloudflare has helped me save 692 MB in the last month. #cloudflare](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7a5627bda160f9068dd6ee6c21a7c178d3b)
+- [@DhravyaShah: Challenge: reply with the most insane one liner python snippet you can think of!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6e79d81d069568d76de7c21073128c3d)
+- [@DhravyaShah: Also, give me feedback on how I can improve these tweets!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6e79da10069461dd68e3c0137b178a3a)
+- [@DhravyaShah: Follow me to join me on this journey of programming! Yes, I&#39;m still a student, but always looking for opportunities to learn new things!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6e79da160e9168d361e6c6107e1d883b)
+- [@DhravyaShah: finally, Reduce 🤏🏻REDUCES the entire iterable to a single value.Note: Reduce isn&#39;t a built in function, it can be imported from the functools library&rpar;it works by calling the function for the first two items in the sequence and keeps doing it till there&#39;s only one value3/3](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6e79da160e9166d661e1c71a78178b3a)
+- [@DhravyaShah: Filter🧋Used to *filter* elements of a list.It takes 2 arguments: a function, and an iterableBasically, filter will append the item to the new list if the function returns *True*Here&#39;s a small snippet🧵 2/3](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6e79da160e9161d06ae4c3147a1d833d)
 <!-- TWITTER:END -->
 
 ### Here is a random meme for you, to make your day better
