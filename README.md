@@ -54,11 +54,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6f78df150d9561d16ce4c3147e148e3c)
-- [@DhravyaShah: why was the moon this bright? 👀- Its not the sun- Its not the camera exposure- 9am in the morning- Thanesomeone pls help i cant sleep without knowing the reasonand everyone thinks I&#39;m lying](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6f78df14089061d260e1c2177215883d)
-- [@DhravyaShah: I&#39;m rewriting SpaceBot in car, park, everywhere. people probably think I&#39;m Steve jobs or something 🤣](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6f7fda140e9667d36ce7c1107c1c8a3a)
-- [@DhravyaShah: Unpopular opinion: coding while travelling is super fun because no one knows what you are doing and why you are doing it](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6f7fda140e9665d56ae5ca1a7c1c8a3b)
-- [@DhravyaShah: This will be very challenging, but I will keep tweeting throughout the process! Follow me if you wanna join me on my journey to make Spacebot the best multipurpose discord bot ever.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6e75dd110a9368dd69e1c5117e12893a)
+- [@DhravyaShah: it works but very slow :&lpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6f75db13079164d76ee8c01272128b38)
+- [@DhravyaShah: ok yeah my bad it worked yaaay](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6f75db130c9465d06ee7c5167a118b3d)
+- [@DhravyaShah: bruh @IFTTT idk why this isnt working](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6f75db120d9662d161e0c7107d158f3c)
+- [@DhravyaShah: one more test](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6f75db120e9561dc6be3c1107f1c8d33)
+- [@DhravyaShah: test message](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6f75db110b9a65d06ae5c713721d883c)
 <!-- TWITTER:END -->
 
 ### Here is a random meme for you, to make your day better
