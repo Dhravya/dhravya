@@ -54,11 +54,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah: it works but very slow :&lpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6f75db13079164d76ee8c01272128b38)
-- [@DhravyaShah: ok yeah my bad it worked yaaay](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6f75db130c9465d06ee7c5167a118b3d)
-- [@DhravyaShah: bruh @IFTTT idk why this isnt working](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6f75db120d9662d161e0c7107d158f3c)
-- [@DhravyaShah: one more test](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6f75db120e9561dc6be3c1107f1c8d33)
-- [@DhravyaShah: test message](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6f75db110b9a65d06ae5c713721d883c)
+- [@DhravyaShah: Its as easy as:18 = 0 0 0 1 0 0 1 0100 = 0 1 1 0 0 1 0 0Now try to represent these numbers as a byte as an exercise:7, 164, 83](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6c79de1d089262dd6de1c41b7f158f3e)
+- [@DhravyaShah: Using this, we can represent any number in the binary form and store it as bits in a digital storage medium](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6c79de1d089366dd6ee0c31b72178d3b)
+- [@DhravyaShah: We can combine these to obtain a binary representation for any number, so 3 will be 010 + 001 = 011Note, since the max value in a bit is 1, of both bits in the same position that are being added are 1, it will &quot;carry over&quot;001 + 001 = 010 ie 1 + 1 = 2](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6c79de1d089364d36fe0c51b78158e39)
+- [@DhravyaShah: The bit at the 0th position has a value of 2^0 ie 1So the number 1 can be represented as 000000000001 &lpar;number of zeroes before 1 doesn&#39;t matter&rpar;Similarly, the 1st place bit has a value of 2^1 or 2So 2 can be represented as 000 010and 4 as 000 0100and 6 as a &lpar;2&amp;4&rpar; : 0000 0110](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6c79de1d089360d06be7c31a7b13883d)
+- [@DhravyaShah: So imagine you have 5 bitsx4 x3 x2 x1 x0We start counting bits from right to left and the leftmost bit is the &quot;0th&quot; bit. Each bit has a different significance, similar to &quot;place values&quot; in math](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6c79de1d099a67dd6ee1c0117a158d33)
 <!-- TWITTER:END -->
 
 ### Here is a random meme for you, to make your day better
