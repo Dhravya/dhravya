@@ -54,11 +54,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah: lol what](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6d7dd8160e9265d66ae8c3167d1c833b)
-- [@DhravyaShah: If you had one advice for someone starting out with programming, what would it be?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6d7ddb1c0d9567dc6be5c01a721d893d)
-- [@DhravyaShah: time to make one myself??How does it work though?i would ask just one hour with Elon musk, can do anything to achieve it](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6c74db1d079362d46ae7c6107d158a3f)
-- [@DhravyaShah: damn, @ZamirSZN&#39;s website is too good.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6c7bd713089667d568e6c3117f13893b)
-- [@DhravyaShah: I&#39;m completely sold on Cloudflare tunnels. You should definitely check them out!!!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6c78d814099061d06fe8c4147310833a)
+- [@python_engineer: 1 month into 2022. Have you started learning Python yet?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f26a6e9cdecb81f8b816ec9e71ab7132a9c8f2cb6e1757cdb1c079267d46be9c0177b108d39cd6182c5)
+- [@DhravyaShah: me: One liners are bad practicealso me:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa627cdb17089a61d36ee5c1127b14883f)
+- [@DhravyaShah: I swear i reply to all messages, why is my response rate so low? @fiverr](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa627dda15069568dc60e2ca117313893a)
+- [@DhravyaShah: Which browser do you use as a dev and why?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa627ddb13099367d76de4c6157b148339)
+- [@DhravyaShah: i tweet too much](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa627ddc13069b67d36ce5c5167812833b)
 <!-- TWITTER:END -->
 
 ### Here is a random meme for you, to make your day better
