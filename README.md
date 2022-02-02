@@ -54,11 +54,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@python_engineer: 1 month into 2022. Have you started learning Python yet?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f26a6e9cdecb81f8b816ec9e71ab7132a9c8f2cb6e1757cdb1c079267d46be9c0177b108d39cd6182c5)
-- [@DhravyaShah: me: One liners are bad practicealso me:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa627cdb17089a61d36ee5c1127b14883f)
-- [@DhravyaShah: I swear i reply to all messages, why is my response rate so low? @fiverr](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa627dda15069568dc60e2ca117313893a)
-- [@DhravyaShah: Which browser do you use as a dev and why?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa627ddb13099367d76de4c6157b148339)
-- [@DhravyaShah: i tweet too much](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa627ddc13069b67d36ce5c5167812833b)
+- [@DhravyaShah: its all about the idea, execution is the easy part](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6278d91c089063d46ce8c217791d8933)
+- [@DhravyaShah: Indian Government Plans To Overtake iOS And Android By Making It&#39;s Own OSsingle question- why? android and IOS not good enough?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6278db140b9164dc61e5c6177e118e39)
+- [@DhravyaShah: Regex is amazing but confusing](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6279da170b9164d26de3c51a7c108e3d)
+- [@DhravyaShah: youtube adds video context, very cool](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6279df12069163d26de5c01679148e3a)
+- [@DhravyaShah: Deleting values from a JSON file feels so weird in python](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa627ed71c079364d06be3cb137915883a)
 <!-- TWITTER:END -->
 
 ### Here is a random meme for you, to make your day better
