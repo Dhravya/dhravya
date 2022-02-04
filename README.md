@@ -54,11 +54,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah: its all about the idea, execution is the easy part](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6278d91c089063d46ce8c217791d8933)
-- [@DhravyaShah: Indian Government Plans To Overtake iOS And Android By Making It&#39;s Own OSsingle question- why? android and IOS not good enough?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6278db140b9164dc61e5c6177e118e39)
-- [@DhravyaShah: Regex is amazing but confusing](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6279da170b9164d26de3c51a7c108e3d)
-- [@DhravyaShah: youtube adds video context, very cool](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6279df12069163d26de5c01679148e3a)
-- [@DhravyaShah: Deleting values from a JSON file feels so weird in python](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa627ed71c079364d06be3cb137915883a)
+- [@DhravyaShah: TweetShift is a very good bot. genuinely](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6274dd160f9462d468e8c41b7f1d833b)
+- [@DhravyaShah: has really really good newsletters, highly recommended](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6275dc1d089067d66de4cb1673148839)
+- [@DhravyaShah: Cloudedquartz recommended me to see this, 🤣 too good](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6275dc1d0c9b67d56ee5c7167e16833b)
+- [@DhravyaShah: Why is this so funny 😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6275dd100c9368dc6ce9c6157e1d8b3c)
+- [@DhravyaShah: SpaceBot has automod now!!!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6275de17069b64d668e9c7137f1c8a3d)
 <!-- TWITTER:END -->
 
 ### Here is a random meme for you, to make your day better
