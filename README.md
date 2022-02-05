@@ -54,11 +54,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah: TweetShift is a very good bot. genuinely](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6274dd160f9462d468e8c41b7f1d833b)
-- [@DhravyaShah: has really really good newsletters, highly recommended](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6275dc1d089067d66de4cb1673148839)
-- [@DhravyaShah: Cloudedquartz recommended me to see this, 🤣 too good](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6275dc1d0c9b67d56ee5c7167e16833b)
-- [@DhravyaShah: Why is this so funny 😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6275dd100c9368dc6ce9c6157e1d8b3c)
-- [@DhravyaShah: SpaceBot has automod now!!!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6275de17069b64d668e9c7137f1c8a3d)
+- [@DhravyaShah: i mean,](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa637ede170c9067d26de9c71a7b13883d)
+- [@DhravyaShah: its](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa637ede170d9068d460e0c4137c128d3f)
+- [@DhravyaShah: OK nice I&#39;m using  now and my laptop is thanking me right now](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa637edf160b9067d669e7c31778178f3f)
+- [@DhravyaShah: i was dumb enough to thin kt hat it wont take any resousrce, my laptop is dying now](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa637fd61d069365d56ee6ca1078158b3c)
+- [@DhravyaShah: Generating an AI model using #openai GPT2 to give random Never have I ever questions](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa637fd61d0c9b60d36de5c21079128c3a)
 <!-- TWITTER:END -->
 
 ### Here is a random meme for you, to make your day better
