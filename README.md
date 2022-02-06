@@ -54,11 +54,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah: i mean,](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa637ede170c9067d26de9c71a7b13883d)
-- [@DhravyaShah: its](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa637ede170d9068d460e0c4137c128d3f)
-- [@DhravyaShah: OK nice I&#39;m using  now and my laptop is thanking me right now](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa637edf160b9067d669e7c31778178f3f)
-- [@DhravyaShah: i was dumb enough to thin kt hat it wont take any resousrce, my laptop is dying now](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa637fd61d069365d56ee6ca1078158b3c)
-- [@DhravyaShah: Generating an AI model using #openai GPT2 to give random Never have I ever questions](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa637fd61d0c9b60d36de5c21079128c3a)
+- [@DhravyaShah: lol, regex looks crazyngl i feel like im god when i use regex, even though its so easy](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa637bd9160b9166d569e5c41b7a178933)
+- [@DhravyaShah: sure, your python code might be looking badbut is it **this** bad??](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa637bda120b9b63d66ce5c61072148e3d)
+- [@DhravyaShah: If you had to say ONE thing to criticise me, what would it be?Go crazy, I won&#39;t feel bad](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6378d7130b9263d06be5c0147a168f32)
+- [@DhravyaShah: I just spent 1 hour debugging the spacebot Automod system.Couldn&#39;t find a solution.I decided to take a 15 minutes break and the first thing i saw after coming was that i had an extra underscore in the __init__ 🤦🏻🤦🏻Don&#39;t be like me, take breaks often. be productive](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6378d7160a9167d46fe5c01b72128f33)
+- [@FastAPI: 😎🎉](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e393ea1f5e3d2ae55969266d3f70cea0d6dd0d76df5a66d7dd91d079667d46fe6c41b)
 <!-- TWITTER:END -->
 
 ### Here is a random meme for you, to make your day better
