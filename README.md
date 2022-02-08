@@ -54,11 +54,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah: lol, regex looks crazyngl i feel like im god when i use regex, even though its so easy](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa637bd9160b9166d569e5c41b7a178933)
-- [@DhravyaShah: sure, your python code might be looking badbut is it **this** bad??](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa637bda120b9b63d66ce5c61072148e3d)
-- [@DhravyaShah: If you had to say ONE thing to criticise me, what would it be?Go crazy, I won&#39;t feel bad](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6378d7130b9263d06be5c0147a168f32)
-- [@DhravyaShah: I just spent 1 hour debugging the spacebot Automod system.Couldn&#39;t find a solution.I decided to take a 15 minutes break and the first thing i saw after coming was that i had an extra underscore in the __init__ 🤦🏻🤦🏻Don&#39;t be like me, take breaks often. be productive](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7aa6378d7160a9167d46fe5c01b72128f33)
-- [@FastAPI: 😎🎉](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e393ea1f5e3d2ae55969266d3f70cea0d6dd0d76df5a66d7dd91d079667d46fe6c41b)
+- [@DhravyaShah: #RocketBoys is actually really, really, really good. I recommend you to watch it NOW.Me and my brother binged watch the entire series last night, we were so hooked, we had to force ourselves to sleep at 5am](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6a7ed61d0d9767d469e4c71a7c11833d)
+- [@DhravyaShah: I just posted another bot writing about my journey of rewriting SpaceBotIt would be really nice if you read :&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6a7ed6130a9468d06ae8c3147e178a3d)
+- [@DhravyaShah: Does anyone even use the keyboard shortcuts for twitter, if yes, which ones??👀👀👀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6a7fd711099562d460e2cb157d1d8d3b)
+- [@DhravyaShah: Great hosting, Epikhost is the reason Spacebot is alive right now. They offer free discord bot hosting and now that Spacebot is in so many servers and I earn, I switched to their SUPER CHEAP VPS &lpar;$54 a year 🤯&rpar; and host all my projects there.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6a7fd9160c9767d76ce6c4107b148233)
+- [@DhravyaShah: MUST HAVE Extension &lpar; 1 &rpar; for everyone working with #mysql on @VisualStudio This one allows you to connect to the database and edit, create columns/ rows without any code/minimal code!!!Also lets you backup your database, use pre-written SQL queries, view tables and much more](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6a7fd9140d9b63dd6be5c71b7816833a)
 <!-- TWITTER:END -->
 
 ### Here is a random meme for you, to make your day better
