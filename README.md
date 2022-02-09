@@ -54,11 +54,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah: #RocketBoys is actually really, really, really good. I recommend you to watch it NOW.Me and my brother binged watch the entire series last night, we were so hooked, we had to force ourselves to sleep at 5am](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6a7ed61d0d9767d469e4c71a7c11833d)
-- [@DhravyaShah: I just posted another bot writing about my journey of rewriting SpaceBotIt would be really nice if you read :&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6a7ed6130a9468d06ae8c3147e178a3d)
-- [@DhravyaShah: Does anyone even use the keyboard shortcuts for twitter, if yes, which ones??👀👀👀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6a7fd711099562d460e2cb157d1d8d3b)
-- [@DhravyaShah: Great hosting, Epikhost is the reason Spacebot is alive right now. They offer free discord bot hosting and now that Spacebot is in so many servers and I earn, I switched to their SUPER CHEAP VPS &lpar;$54 a year 🤯&rpar; and host all my projects there.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6a7fd9160c9767d76ce6c4107b148233)
-- [@DhravyaShah: MUST HAVE Extension &lpar; 1 &rpar; for everyone working with #mysql on @VisualStudio This one allows you to connect to the database and edit, create columns/ rows without any code/minimal code!!!Also lets you backup your database, use pre-written SQL queries, view tables and much more](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6a7fd9140d9b63dd6be5c71b7816833a)
+- [@DhravyaShah:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6a7ada12089369dc69e7c31473158239)
+- [@DhravyaShah: I&#39;m proud to say that I learnt @Docker in one day, very easy + insanely useful](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6a7ada100c9a62d569e6cb1673128c39)
+- [@elonmusk: 🎶Always look on the bright side of life🎶](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1a33bdefcff79411ca9573c6f60ab61368dcd768f4a6637bd617099a67d560e0c1177f)
+- [@DhravyaShah: What is something that turned out to be more gamechanger than you thought?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6a7bd9140a9468d76ae4ca167b158932)
+- [@DhravyaShah: .@discord is testing new forums features, mod tools, and more Thoughts?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6a7bd9140d9a63d46ae7c6137f17883c)
 <!-- TWITTER:END -->
 
 ### Here is a random meme for you, to make your day better
