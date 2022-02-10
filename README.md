@@ -54,11 +54,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6a7ada12089369dc69e7c31473158239)
-- [@DhravyaShah: I&#39;m proud to say that I learnt @Docker in one day, very easy + insanely useful](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6a7ada100c9a62d569e6cb1673128c39)
-- [@elonmusk: 🎶Always look on the bright side of life🎶](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1a33bdefcff79411ca9573c6f60ab61368dcd768f4a6637bd617099a67d560e0c1177f)
-- [@DhravyaShah: What is something that turned out to be more gamechanger than you thought?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6a7bd9140a9468d76ae4ca167b158932)
-- [@DhravyaShah: .@discord is testing new forums features, mod tools, and more Thoughts?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6a7bd9140d9a63d46ae7c6137f17883c)
+- [@DhravyaShah: Twitter really does bring a lot of opportunities... damn ✨🤩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6b7cdc15069167dd60e8c4127f128b33)
+- [@DhravyaShah: so so many of my friends have installed arch linux and were like &quot;lol this isnt for me&quot;choose wisely: &quot;i use arch linux btw&quot; or &quot;I learnt docker! &lpar;or anything else that takes time and energy&rpar;&quot;&quot;&lpar;arch&rpar; Linux is free only if you don&#39;t value your time&quot;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6b7dda170b9569d36de5c0127b17883b)
+- [@DhravyaShah: I tweet about a lot of stuff about tech, python, javascript, react, SQL, docker, and random stuff !! Follow me ✨](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6b7ddb1d069161d26ae0c6157e148c3d)
+- [@DhravyaShah: MUST HAVE @VisualStudio extension:✨Cloudflare Tunnel✨Best features:- can use your own cloudflare domain for tunneling- @cloudflare level fast and secure- underrated, so there aren&#39;t as many users as ngrok](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6b7ddb130a9567d661e8cb167f158238)
+- [@DhravyaShah: In today&#39;s episode of interesting tech news:- Apple acquires AI Music Startup That Can Generate Dynamic Soundtracks 👀- Next gen spinal implants help people with severe paralysis walk, cycle, and swim- Apple could launch 2 products next month - cheaper iphone and new macbook](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6b7ddb120c9166d56ce8c711781d8e38)
 <!-- TWITTER:END -->
 
 ### Here is a random meme for you, to make your day better
