@@ -54,11 +54,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah: I&#39;ll say this to a kid tomorrow 😂😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6b78dc16079b61dd69e9c21b7e128938)
-- [@DhravyaShah: Visit , they have so many free templates as well!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6b78de160f9768d26ee9ca127d1d8a39)
-- [@DhravyaShah: I&#39;m making the @Epikhost1 website using @Cruip_com&#39;s Simple template!! Here&#39;s my experience so far- It is properly commented and super easy to use- The template uses webpack to bundle the files- Netlify files are provided to deploy easily- Very well documented and super fast.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6b78df100c9066d461e5c7107c16883e)
-- [@DhravyaShah: I wish I knew about the amazing videos by @Jeffdelaney23 at @fireship_dev before. The videos are too good, highly informative and motivational. He genuinely cares about the viewers, and videos are very short and concise.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6b79d810099061d161e0cb1673118f3f)
-- [@DhravyaShah: I&#39;m really excited to announce that I&#39;m the ambassador of !!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6b79d8140b9168d069e9c113781d833e)
+- [@DhravyaShah: I love it when someone goes through multiple tweets and likes them 🥰](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6b75dc1c089564d469e3c6117c168c3e)
+- [@oliverjumpertz: Six essential truths of software development- You will never know everything- Teamwork always wins- Your software will inevitably fail- There is always someone better than you- You will never catch all edge cases- Code should always be written for humans](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1033bbf7c7f08d0f889662d5f605ea4f2d899a2db0bd6b79d615079164d061e7c51a7a168e3dc26283)
+- [@snotgirlsosa: bruh. every fucking day i end up looking up an artist or creator director or smth and get so deep into learning about their lives and how they followed their dreams and somehow forget they were ppl same as me???? now they&#39;re just loving the dream, actually! not the way i say it!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c31bdf5c5eb9516968974c6ad0cb15d2d9d9d77f2a6637cd7150d9063d260e8c4127c11893dc2)
+- [@DhravyaShah: In today&#39;s episode of interesting tech news- @nvidia gives up on ARM acquisition after antitrust backlash by the USA and Europe- There is not much interesting tech news today😂😂 What do you think about this? Personally I think its good because NVIDIA would be way too powerful](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6b75df10089466dc6ae5c5117c11883d)
+- [@DhravyaShah: 🤣](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6b75df160a9769dc6ce3c01b7d118339)
 <!-- TWITTER:END -->
 
 ### Here is a random meme for you, to make your day better
