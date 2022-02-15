@@ -54,11 +54,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah: I love it when someone goes through multiple tweets and likes them 🥰](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6b75dc1c089564d469e3c6117c168c3e)
-- [@oliverjumpertz: Six essential truths of software development- You will never know everything- Teamwork always wins- Your software will inevitably fail- There is always someone better than you- You will never catch all edge cases- Code should always be written for humans](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1033bbf7c7f08d0f889662d5f605ea4f2d899a2db0bd6b79d615079164d061e7c51a7a168e3dc26283)
-- [@snotgirlsosa: bruh. every fucking day i end up looking up an artist or creator director or smth and get so deep into learning about their lives and how they followed their dreams and somehow forget they were ppl same as me???? now they&#39;re just loving the dream, actually! not the way i say it!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c31bdf5c5eb9516968974c6ad0cb15d2d9d9d77f2a6637cd7150d9063d260e8c4127c11893dc2)
-- [@DhravyaShah: In today&#39;s episode of interesting tech news- @nvidia gives up on ARM acquisition after antitrust backlash by the USA and Europe- There is not much interesting tech news today😂😂 What do you think about this? Personally I think its good because NVIDIA would be way too powerful](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6b75df10089466dc6ae5c5117c11883d)
-- [@DhravyaShah: 🤣](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6b75df160a9769dc6ce3c01b7d118339)
+- [@DhravyaShah: Thanks for reading!If you like this thread✅ Retweet the first tweet &lpar;below&rpar;✅ Follow me! @dhravyashahI post these tutorials often!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab697fda110b9462dd6ce5cb1a7f178938)
+- [@DhravyaShah: Read the FastAPI docs if you wanna learn more. Its really well documented thanks to @FastAPI and @tiangolo](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab697fda110c9666d66ee1c5137915823f)
+- [@DhravyaShah: Check it Visit  and Voila! It should display {&quot;Hello&quot;: &quot;World&quot;}](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab697fda110c9664d06ee4c7177f158c3c)
+- [@DhravyaShah: Now, run it!! Programs made with FastAPI are run with the following command:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab697fda110c9662d06ce2ca1b7a108e3d)
+- [@DhravyaShah: Make an API route &lpar;also known as endpoint&rpar; using the decorator @app.get&lpar;&quot;/route_name&quot;&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab697fda110c9767d06ce1c3147f128b33)
 <!-- TWITTER:END -->
 
 ### Here is a random meme for you, to make your day better
