@@ -54,11 +54,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@Saini01_Disha: Nobody:Engineers:Wake up: Open Laptop,Doing Breakfast: Open Laptop,When Angry: Open Laptop,When Happy: Open Laptop,Mood Off: Open Laptop,Want to do nothing: Open laptop,I am this🥲, habitual to be with my laptop.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c3ebbefcbb2d625a18f74cfe350b648389c9b2beca36e74db16089063d76be8ca1579118e39cc6a)
+- [@DhravyaShah: Pretty cool idea, but.... will this work?Read my blog!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6975d71d0b9060d66fe3c5147e128232)
+- [@SauravPurohit4: 👉 Cruip](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c3ea7f3c3f4b70f97896fcef64bea4f2d899a2db0bd6b79d617079166d06ee5c4107d15893fcd6380)
 - [@DhravyaShah: Thanks for reading!If you like this thread✅ Retweet the first tweet &lpar;below&rpar;✅ Follow me! @dhravyashahI post these tutorials often!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab697bdf17079a63dd6fe8cb107d13833e)
 - [@DhravyaShah: This is, infact, a rounding error. Now we know why this happens, but how do you fix such a thing while coding?- AVOID floats as much as possible &lpar;multiply and divide by 100 after calculation&rpar;- convert to nearest integer](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab697bdf17089261d06ee7c21a7d158f3d)
-- [@DhravyaShah: But computers use base2 &lpar;binary&rpar;, which means each number can be either 0/1so 4 is represented as 100 and 255 is 1111 1111Like humans, computers also have some fractions that they can&#39;t figure out, like 1/5this can&#39;t go forever, has to be roundedSo, its just a rounding error?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab697bdf17089369d46de9c71a7f17893b)
-- [@DhravyaShah: First, let&#39;s understand it the human way.For example, 1/3 = 0.3, but wait, 0.3*3 = 0.9humans calculate numbers using base10, which means each number can be between 0 and 9.But, all factors need to be a prime factor of the base.So, 0.333 can get CLOSER to 1/3, but never reach](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab697bdf17089366d06ce8c5117a17883a)
-- [@DhravyaShah: Why computers suck at math!&lpar;and why you should be very careful when working with floats&rpar;Backstory: I was having an error because of floating-point numbers. wasted hours. So here i am, to save your time and tell you exactly why 0.1 + 0.2 = 0.30000000000000004#100daysofcode](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab697bdf17089363d161e3c2177b1d8f3c)
 <!-- TWITTER:END -->
 
 ### Here is a random meme for you, to make your day better
