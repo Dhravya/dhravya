@@ -54,11 +54,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@DhravyaShah: I&#39;m redesigning my website now!Just a bit of changing colors here and there, etc](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6e7ade140f9568d16fe2ca177a1d8a3b)
+- [@DhravyaShah:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6e78d6170b9167d06de8c51279118932)
 - [@Saini01_Disha: Nobody:Engineers:Wake up: Open Laptop,Doing Breakfast: Open Laptop,When Angry: Open Laptop,When Happy: Open Laptop,Mood Off: Open Laptop,Want to do nothing: Open laptop,I am this🥲, habitual to be with my laptop.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c3ebbefcbb2d625a18f74cfe350b648389c9b2beca36e74db16089063d76be8ca1579118e39cc6a)
 - [@DhravyaShah: Pretty cool idea, but.... will this work?Read my blog!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6975d71d0b9060d66fe3c5147e128232)
 - [@SauravPurohit4: 👉 Cruip](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c3ea7f3c3f4b70f97896fcef64bea4f2d899a2db0bd6b79d617079166d06ee5c4107d15893fcd6380)
-- [@DhravyaShah: Thanks for reading!If you like this thread✅ Retweet the first tweet &lpar;below&rpar;✅ Follow me! @dhravyashahI post these tutorials often!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab697bdf17079a63dd6fe8cb107d13833e)
-- [@DhravyaShah: This is, infact, a rounding error. Now we know why this happens, but how do you fix such a thing while coding?- AVOID floats as much as possible &lpar;multiply and divide by 100 after calculation&rpar;- convert to nearest integer](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab697bdf17089261d06ee7c21a7d158f3d)
 <!-- TWITTER:END -->
 
 ### Here is a random meme for you, to make your day better
