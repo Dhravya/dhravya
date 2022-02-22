@@ -54,11 +54,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah: I&#39;m redesigning my website now!Just a bit of changing colors here and there, etc](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6e7ade140f9568d16fe2ca177a1d8a3b)
-- [@DhravyaShah:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6e78d6170b9167d06de8c51279118932)
-- [@Saini01_Disha: Nobody:Engineers:Wake up: Open Laptop,Doing Breakfast: Open Laptop,When Angry: Open Laptop,When Happy: Open Laptop,Mood Off: Open Laptop,Want to do nothing: Open laptop,I am this🥲, habitual to be with my laptop.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c3ebbefcbb2d625a18f74cfe350b648389c9b2beca36e74db16089063d76be8ca1579118e39cc6a)
-- [@DhravyaShah: Pretty cool idea, but.... will this work?Read my blog!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6975d71d0b9060d66fe3c5147e128232)
-- [@SauravPurohit4: 👉 Cruip](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c3ea7f3c3f4b70f97896fcef64bea4f2d899a2db0bd6b79d617079166d06ee5c4107d15893fcd6380)
+- [@DhravyaShah: I&#39;m chuffed to bits!!!!!THE CEO OF @Docker - Scott Johnston - followed meThis means a lot to me, thank you so much 😍](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6f7fd816079163d66fe0c3177c118a39)
+- [@DhravyaShah: Python pro tip 🚀🚀Use &quot;or&quot; instead of one-line if statements to set default values!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6f7fd815069768d068e7c61473178e3e)
+- [@ducksoupyumyum: &lt;p&gt;How Spotify makes text on images readable.&lt;/p&gt; #100Devs](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1b2ab1ead1ed920a9c936adef712ea4f2d899a2db0bd6b79d6110e9568dd6be0c6177f11883ac06b85)
+- [@DhravyaShah: WHAT! the CEO of Docker - @scottcjohnston liked my Docker thread!!!!This is epic 🤯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6f7dd713069165dd6fe7c11079178b3e)
+- [@DhravyaShah: aaaaaaaaand the redesign is done!!thanks to @sushi_cube to help me with the colours and design! &lpar;he&#39;s a great artist&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6e74dc15099468d569e8c61a7a128b3b)
 <!-- TWITTER:END -->
 
 ### Here is a random meme for you, to make your day better
