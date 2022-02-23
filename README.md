@@ -54,11 +54,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah: I&#39;m chuffed to bits!!!!!THE CEO OF @Docker - Scott Johnston - followed meThis means a lot to me, thank you so much 😍](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6f7fd816079163d66fe0c3177c118a39)
-- [@DhravyaShah: Python pro tip 🚀🚀Use &quot;or&quot; instead of one-line if statements to set default values!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6f7fd815069768d068e7c61473178e3e)
-- [@ducksoupyumyum: &lt;p&gt;How Spotify makes text on images readable.&lt;/p&gt; #100Devs](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1b2ab1ead1ed920a9c936adef712ea4f2d899a2db0bd6b79d6110e9568dd6be0c6177f11883ac06b85)
-- [@DhravyaShah: WHAT! the CEO of Docker - @scottcjohnston liked my Docker thread!!!!This is epic 🤯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6f7dd713069165dd6fe7c11079178b3e)
-- [@DhravyaShah: aaaaaaaaand the redesign is done!!thanks to @sushi_cube to help me with the colours and design! &lpar;he&#39;s a great artist&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6e74dc15099468d569e8c61a7a128b3b)
+- [@DhravyaShah: Throwback to the time when i almost bought  for 20$ ... and someone else bought it in front of me:&lpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6c7cdb1d089267d761e2ca1b7a11833d)
+- [@DhravyaShah: 👀  found this amazing product on product hunt](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6c7dd612089362d66ce9c0147810893e)
+- [@DhravyaShah: after 2 minutes, it will be 22-2-22 2.22pm 🗿](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6c7ddb10099565d560e3c1167c11893b)
+- [@Amit_T18: 5 things you should follow to become a part of the Tech Twitter Community ✨- Create value- Build a profile- Make amazing friends- Always be kind and genuine- Help folks by explaining a topicLet&#39;s all grow together!!!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3e32bbf5fdd6d642ca9573c6f60ab61368dcd76ef3a06b7ada160c9063d66de6c2177d)
+- [@DhravyaShah: I love to surf @ProductHunt to find out about amazing new technologies, websites, apps, etc. It&#39;s so fun and inspiring at the same time](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6f75da16069063d36ae6c11b7d158b3b)
 <!-- TWITTER:END -->
 
 ### Here is a random meme for you, to make your day better
