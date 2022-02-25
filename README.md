@@ -54,11 +54,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@DhravyaShah: The errors in @rustlang are soo good that i hope to get errors just so i can look at that beauty try to fix it](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6c78d916099266d46ee5c3117f1d8938)
+- [@DhravyaShah: Pro tip: Use &quot;git commit --amend -am &#39;new commit message&#39; &quot; if you ever accidentally commit with a typo or a bad commit message!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6c78da110f9064d46ee3cb107a108c39)
 - [@DhravyaShah: Throwback to the time when i almost bought  for 20$ ... and someone else bought it in front of me:&lpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6c7cdb1d089267d761e2ca1b7a11833d)
 - [@DhravyaShah: 👀  found this amazing product on product hunt](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6c7dd612089362d66ce9c0147810893e)
 - [@DhravyaShah: after 2 minutes, it will be 22-2-22 2.22pm 🗿](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6c7ddb10099565d560e3c1167c11893b)
-- [@Amit_T18: 5 things you should follow to become a part of the Tech Twitter Community ✨- Create value- Build a profile- Make amazing friends- Always be kind and genuine- Help folks by explaining a topicLet&#39;s all grow together!!!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3e32bbf5fdd6d642ca9573c6f60ab61368dcd76ef3a06b7ada160c9063d66de6c2177d)
-- [@DhravyaShah: I love to surf @ProductHunt to find out about amazing new technologies, websites, apps, etc. It&#39;s so fun and inspiring at the same time](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6f75da16069063d36ae6c11b7d158b3b)
 <!-- TWITTER:END -->
 
 ### Here is a random meme for you, to make your day better
