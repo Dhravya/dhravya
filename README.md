@@ -54,11 +54,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@DhravyaShah:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6d7cdd120b9a65dd6be8c11b7a138f3f)
 - [@DhravyaShah: Daily makes it extremely easy to stay updated with the latest dev news.It’s a 100% open-source browser extension, free &lpar;forever&rpar;, and doesn’t even require a signup. A must-have tool for every busy developer. @dailydotdev](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6c74de10069662d769e3c71a7d10823c)
 - [@GYutman: You have successfully finished corona virus. Your next game is World war 3 #worldwar3 #WWIII](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3806a7f5cfe38955969266d3f70cea0d6dd1d860f7a36f7fdd11099266d36ae8ca13)
 - [@DhravyaShah: How I supercharged my terminal using !](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6c7ade1d089769dc60e2c4127b128f33)
 - [@moltentungsten: #WWIII2022 is gonna World war 3 is Be my year trending on 2nd Month of 2022](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1230bef5c7ec930f8b8174d3e711ea4f2d899a2db0bd6b79d612089260dc69e8c21b7f1d893cc66580)
-- [@PercyRover: Oh so the shittiest humans on Earth decided to be EXTRA shitty today](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2f3aa0e2dbd0880c809428d4f61eb1492ac7df6cfaa46d7dd6150a9267d56fe3c2177d1788)
 <!-- TWITTER:END -->
 
 ### Here is a random meme for you, to make your day better
