@@ -54,11 +54,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@DhravyaShah: Read my latest: “Revue by Twitter is cool”](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab627ed712069a68d46fe0c5157f1d8c33)
+- [@DhravyaShah: Read my latest: “Weekly newsletter of Dhravya Shah - Issue #1”](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab627ede120f9669d661e7c713781c8b32)
+- [@DhravyaShah: ok this is actually so funny 💀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6d7bda130d9368d761e7c5107d11883a)
+- [@DhravyaShah: I&#39;m trying out @appflowy - The open-source alternative for Notion. @Docker made it so easy to install, damn.JUST ONE COMMAND!However, it takes like 20 minutes to run the entire Dockerfile 🤣](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6d7bdd1d0c9269d26be0cb147e1d8e39)
 - [@DhravyaShah:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6d7cdd120b9a65dd6be8c11b7a138f3f)
-- [@DhravyaShah: Daily makes it extremely easy to stay updated with the latest dev news.It’s a 100% open-source browser extension, free &lpar;forever&rpar;, and doesn’t even require a signup. A must-have tool for every busy developer. @dailydotdev](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6c74de10069662d769e3c71a7d10823c)
-- [@GYutman: You have successfully finished corona virus. Your next game is World war 3 #worldwar3 #WWIII](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3806a7f5cfe38955969266d3f70cea0d6dd1d860f7a36f7fdd11099266d36ae8ca13)
-- [@DhravyaShah: How I supercharged my terminal using !](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6c7ade1d089769dc60e2c4127b128f33)
-- [@moltentungsten: #WWIII2022 is gonna World war 3 is Be my year trending on 2nd Month of 2022](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1230bef5c7ec930f8b8174d3e711ea4f2d899a2db0bd6b79d612089260dc69e8c21b7f1d893cc66580)
 <!-- TWITTER:END -->
 
 ### Here is a random meme for you, to make your day better
