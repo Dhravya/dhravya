@@ -54,11 +54,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@DhravyaShah: I am dead, please help 💀💀💀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab637cdf17069466d361e0c4157a148f3a)
+- [@DhravyaShah: why is chrome still the most popular browser? It eats so much RAM 😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab637ddb11089766d168e0c41a7a108b32)
 - [@DhravyaShah: This thread is actually a shorthand version of my blog about it -](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6278dc1d069363d56fe0c4107a15893a)
 - [@DhravyaShah: And that&#39;s it!! You now how this beautiful terminal that keeps you productive and helps with git, language versions and much more!If you liked this thread, make sure to follow me @DhravyaShah](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6278dc1d069360d46fe6c7177a178d38)
 - [@DhravyaShah: On VSCODE: Open the editor settings.json file and add this code snippet &quot;terminal.integrated.fontFamily&quot;: &quot;JetBrainsMono NF&quot;,](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6278dc1d079a64d668e8c4157e148b33)
-- [@DhravyaShah: Final Step: Tell the terminal to use the fontOn Windows terminal: go to Settings -&gt; Windows Powershell -&gt; Appearance and select the font you just installed](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6278dc1d079b67d56fe1c11a7b148838)
-- [@DhravyaShah: Now, open the ZIP file and click on whichever version you prefer. then click on &quot;Install&quot; &lpar;note the name, we&#39;ll need it later on&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6278dc1d079465d26de5c3117e118e39)
 <!-- TWITTER:END -->
 
 ### Here is a random meme for you, to make your day better
