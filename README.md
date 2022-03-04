@@ -54,11 +54,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@DhravyaShah:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6379d916089068d46ce0c21578108b32)
+- [@DhravyaShah: Just found out about  - An amazing knowledge sharing platform- It has great articles- The developers of tealfeed seem very active and the platform is actively growing- More attention to creators than other platforms like dev. to](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab637fd6110b9469d369e8c4157b14893b)
+- [@DhravyaShah: Read my latest: “QR code CLI - more params, optimizing, publishing”](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab637fda17099067d76ce6c01b7a178233)
+- [@DhravyaShah: Good morning devs!I started off my morning by writing this blog, what about you? 👀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab637fdc1c0b9064dd6be2c2137b128332)
 - [@DhravyaShah: I am dead, please help 💀💀💀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab637cdf17069466d361e0c4157a148f3a)
-- [@DhravyaShah: why is chrome still the most popular browser? It eats so much RAM 😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab637ddb11089766d168e0c41a7a108b32)
-- [@DhravyaShah: This thread is actually a shorthand version of my blog about it -](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6278dc1d069363d56fe0c4107a15893a)
-- [@DhravyaShah: And that&#39;s it!! You now how this beautiful terminal that keeps you productive and helps with git, language versions and much more!If you liked this thread, make sure to follow me @DhravyaShah](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6278dc1d069360d46fe6c7177a178d38)
-- [@DhravyaShah: On VSCODE: Open the editor settings.json file and add this code snippet &quot;terminal.integrated.fontFamily&quot;: &quot;JetBrainsMono NF&quot;,](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6278dc1d079a64d668e8c4157e148b33)
 <!-- TWITTER:END -->
 
 ### Here is a random meme for you, to make your day better
