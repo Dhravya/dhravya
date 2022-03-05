@@ -54,11 +54,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab6379d916089068d46ce0c21578108b32)
-- [@DhravyaShah: Just found out about  - An amazing knowledge sharing platform- It has great articles- The developers of tealfeed seem very active and the platform is actively growing- More attention to creators than other platforms like dev. to](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab637fd6110b9469d369e8c4157b14893b)
-- [@DhravyaShah: Read my latest: “QR code CLI - more params, optimizing, publishing”](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab637fda17099067d76ce6c01b7a178233)
-- [@DhravyaShah: Good morning devs!I started off my morning by writing this blog, what about you? 👀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab637fdc1c0b9064dd6be2c2137b128332)
-- [@DhravyaShah: I am dead, please help 💀💀💀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab637cdf17069466d361e0c4157a148f3a)
+- [@Amit_T18: Go spam the console 😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3e32bbf5fdd6d642ca9573c6f60ab61368dcd761f4a76d78d613099b62dc6fe5c5107b)
+- [@sabrinaesaquino: When someone walks in the room and you&#39;re googling up some basic JS 😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c3eb0f3cbec861f968776d2eb11aa132a9c8f2cb6e1757cdb1d069562d561e6c5137e1d823fc36185c2)
+- [@DhravyaShah: Today I learned that you can stop people from making custom attributes using &lpar;saw this in a programming discord server&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab637bde1d099769d268e9c4177b10823c)
+- [@DhravyaShah: I love the flying broomstick trolls](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab637bde140b9767d16fe3ca1073108a3d)
+- [@DhravyaShah: Here&#39;s the link if you wanna contribute or use it](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab637bdf1d0e9468dc6be1c514721d8939)
 <!-- TWITTER:END -->
 
 ### Here is a random meme for you, to make your day better
