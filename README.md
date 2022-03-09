@@ -54,11 +54,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@Amit_T18: Go spam the console 😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3e32bbf5fdd6d642ca9573c6f60ab61368dcd761f4a76d78d613099b62dc6fe5c5107b)
-- [@sabrinaesaquino: When someone walks in the room and you&#39;re googling up some basic JS 😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c3eb0f3cbec861f968776d2eb11aa132a9c8f2cb6e1757cdb1d069562d561e6c5137e1d823fc36185c2)
-- [@DhravyaShah: Today I learned that you can stop people from making custom attributes using &lpar;saw this in a programming discord server&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab637bde1d099769d268e9c4177b10823c)
-- [@DhravyaShah: I love the flying broomstick trolls](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab637bde140b9767d16fe3ca1073108a3d)
-- [@DhravyaShah: Here&#39;s the link if you wanna contribute or use it](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f7ab637bdf1d0e9468dc6be1c514721d8939)
+- [@DhravyaShah: looks like #discord down. to everyone who thought it&#39;s their wifi: &lpar;JK, i thought the same lmfao&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26b7fd91c0c9466d66ce4c3167e178f3f)
+- [@Nero07424060: Everyone going to Twitter to see if spotify and discord really down #Discord](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e313aa0ee92b5d348d1d63197ad0cb15d2d9d9d77f2a76a7cdd120c9060d16be6cb127a1d893dc3)
+- [@discord: time to go outside everyone](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1b36a1e2cdf08355969266d3f70cea0d6cd8df6af5a16b7fde130d9a65d06ae2ca17)
+- [@DhravyaShah: I just completed 1000 contributions on Github 😲](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26b7cd815079a61dc69e9c31a7b178e3f)
+- [@DhravyaShah: Just recieved this email from @Cruip_com 😍 Mosiac 4 is now live!! It&#39;s soooo cool. Literally everything you ever need from a template in in there !](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26b7dd71c0f9260d76ce3c3107e1c8933)
 <!-- TWITTER:END -->
 
 ### Here is a random meme for you, to make your day better
