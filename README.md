@@ -54,11 +54,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah: looks like #discord down. to everyone who thought it&#39;s their wifi: &lpar;JK, i thought the same lmfao&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26b7fd91c0c9466d66ce4c3167e178f3f)
-- [@Nero07424060: Everyone going to Twitter to see if spotify and discord really down #Discord](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e313aa0ee92b5d348d1d63197ad0cb15d2d9d9d77f2a76a7cdd120c9060d16be6cb127a1d893dc3)
-- [@discord: time to go outside everyone](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1b36a1e2cdf08355969266d3f70cea0d6cd8df6af5a16b7fde130d9a65d06ae2ca17)
-- [@DhravyaShah: I just completed 1000 contributions on Github 😲](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26b7cd815079a61dc69e9c31a7b178e3f)
-- [@DhravyaShah: Just recieved this email from @Cruip_com 😍 Mosiac 4 is now live!! It&#39;s soooo cool. Literally everything you ever need from a template in in there !](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26b7dd71c0f9260d76ce3c3107e1c8933)
+- [@the_Rust_Dev: After my last post, a member of the DEV Community suggested me to modularize it so that people can write their own templates and can do all sorts of stuff with it. This was an amazing idea!{ author: @DhravyaShah } #DEVCommunity](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0b37b7def0f7940ebaa262d1ad0cb15d2d9d9d77f2a76a7cd9150e9362d068e9c01078128238c7)
+- [@DhravyaShah: the real reason Spotify was down](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26b78d9140d9768d66be1c617791d823f)
+- [@MaleoSun: Id say that greg is behind this](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e323ebee4cdd19214ca9573c6f60ab61368ddde69f6a16a75da110d9560d06be7ca117e)
+- [@robinjagal: Best subject in school was “Computer”, because that was the only classroom in the whole school that had AC.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b0e8cce8861d848a28d4f61eb1492ac7df6df3a36e7adf15099360d760e3c212721289)
+- [@subtleartofngaf: Scrolling instagram for 10 mins makes you feel ugly, poor, homeless and desperately single all at once😭](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2ab0f5cee78608918961c9e51ea3132a9c8f2cb6e1757cda140e9069dc61e4c51a7f14893ac46a87ca)
 <!-- TWITTER:END -->
 
 ### Here is a random meme for you, to make your day better
