@@ -45,9 +45,8 @@ alt="Github streaks">
 
 
 <div align="center">
-<a href="https://dhravya.me">
-<h2>Check out my website!!</h2>
-<img src="https://dhravya.me/static/images/twitter-card.png">
+<a href="https://blog.dhravya.dev">
+<h2>Check out my blog!!</h2>
 </a>
 </div>
 
