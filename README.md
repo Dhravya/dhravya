@@ -61,9 +61,5 @@ alt="Github streaks">
 - [@subtleartofngaf: Scrolling instagram for 10 mins makes you feel ugly, poor, homeless and desperately single all at once😭](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2ab0f5cee78608918961c9e51ea3132a9c8f2cb6e1757cda140e9069dc61e4c51a7f14893ac46a87ca)
 <!-- TWITTER:END -->
 
-### Here is a random meme for you, to make your day better
-Meme sourced through [DhravyaAPI](https://api.dhravya.me)
-
-<img src='https://api.dhravya.me/meme?subreddit=wholesomememes  ' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dhravya&label=Profile%20views&color=00ffff&style=flat" alt="dhravya" /> </p>
