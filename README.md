@@ -53,11 +53,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@the_Rust_Dev: After my last post, a member of the DEV Community suggested me to modularize it so that people can write their own templates and can do all sorts of stuff with it. This was an amazing idea!{ author: @DhravyaShah } #DEVCommunity](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0b37b7def0f7940ebaa262d1ad0cb15d2d9d9d77f2a76a7cd9150e9362d068e9c01078128238c7)
-- [@DhravyaShah: the real reason Spotify was down](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26b78d9140d9768d66be1c617791d823f)
-- [@MaleoSun: Id say that greg is behind this](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e323ebee4cdd19214ca9573c6f60ab61368ddde69f6a16a75da110d9560d06be7ca117e)
-- [@robinjagal: Best subject in school was “Computer”, because that was the only classroom in the whole school that had AC.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b0e8cce8861d848a28d4f61eb1492ac7df6df3a36e7adf15099360d760e3c212721289)
-- [@subtleartofngaf: Scrolling instagram for 10 mins makes you feel ugly, poor, homeless and desperately single all at once😭](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2ab0f5cee78608918961c9e51ea3132a9c8f2cb6e1757cda140e9069dc61e4c51a7f14893ac46a87ca)
+- [@Online__Mentor: Computer technologiesA for AssemblerM for Machine LearningB for Back-EndN for Node.Js SC for C++ C+O for ObjectP for PythonD for Data ScienceQ for Q-Deep LearningE for Encapsulation EPSR for ReactF for Full StackS for SQLMySQLG for GitHub](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3031bee8cce7b825a88369d3ed0dea4f2d899a2db0bd6b78df16069463d06fe8ca1678168832cc6780)
+- [@DhravyaShah: Found out about . This is pure gold](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26874de100f9268d361e0ca1479118933)
+- [@The_Python_DEV: I got bored and thought it would be fun to Rickroll my friends - but, as a programmer, I wanted to see how I could maximize my Rickrolling potential with code. { author: @DhravyaShah } #DEVCommunity](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7def2fb93128a8858e3c729ea4f2d899a2db0bd6b78df16099a62d168e1c2137e178938c46089)
+- [@DhravyaShah: My twitter banner&#39;s ratelimit exceeded 😂💀 hope I don&#39;t get banned from twitter API 🥶](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a2687bde10089763d56ae7c2167f1d8839)
+- [@DhravyaShah: just gonna leave this here](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26878d6100d9a69dc60e5c31a7c17823d)
 <!-- TWITTER:END -->
 
 
