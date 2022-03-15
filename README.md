@@ -53,11 +53,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@The_Python_DEV: Here&#39;s my submission for the Deepgram hackathon!{ author: @DhravyaShah } #DEVCommunity](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7def2fb93128a8858e3c729ea4f2d899a2db0bd6b78df170b9362d56fe4c21a7a1c8c32c06685)
 - [@Online__Mentor: Computer technologiesA for AssemblerM for Machine LearningB for Back-EndN for Node.Js SC for C++ C+O for ObjectP for PythonD for Data ScienceQ for Q-Deep LearningE for Encapsulation EPSR for ReactF for Full StackS for SQLMySQLG for GitHub](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3031bee8cce7b825a88369d3ed0dea4f2d899a2db0bd6b78df16069463d06fe8ca1678168832cc6780)
 - [@DhravyaShah: Found out about . This is pure gold](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26874de100f9268d361e0ca1479118933)
 - [@The_Python_DEV: I got bored and thought it would be fun to Rickroll my friends - but, as a programmer, I wanted to see how I could maximize my Rickrolling potential with code. { author: @DhravyaShah } #DEVCommunity](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7def2fb93128a8858e3c729ea4f2d899a2db0bd6b78df16099a62d168e1c2137e178938c46089)
 - [@DhravyaShah: My twitter banner&#39;s ratelimit exceeded 😂💀 hope I don&#39;t get banned from twitter API 🥶](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a2687bde10089763d56ae7c2167f1d8839)
-- [@DhravyaShah: just gonna leave this here](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26878d6100d9a69dc60e5c31a7c17823d)
 <!-- TWITTER:END -->
 
 
