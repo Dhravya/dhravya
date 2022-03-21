@@ -53,11 +53,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@SpaceX: Starship full stack propellant load testing at Starbase](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c2fb3e2c7dac809918773d2f150f40969dcd769faa76a7edf100e9162dd60e1c0)
-- [@LinusTech: big F for google maps](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3336bcf4d1d682198dc974d3e30bb04f76d9db68f7aa627ddc10099565d560e9c4137f13)
-- [@hackertabdev: How I got 100 followers on  in 10 days, and why YOU should start blogging now. by @DhravyaShah#beginners #writing #discuss #hackertab](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e173eb1eac7f0931b878262d1ad0cb15d2d9d9d77f2a76a79d81c069463d76ee2ca147a138d3bc4)
-- [@DhravyaShah: This is pure gold. Check it out](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26e78dc110c9b63d66ae1c417781c883f)
-- [@code: Happy 25th @visualstudio! 🥳 Commemorate along with us:  share the ❤️, using #MyVSStory](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c30b6e48df1931b91937488b34af5086dd0d66df3a36d78d9150e9569dc6e)
+- [@DhravyaShah: I want to try Coffee chats, but I&#39;m too shy and socially awkwardalso, how do I get comfortable? I think it has to do with confidence and the &quot;how to&quot; and &quot;what to&quot; talk struggleAlso, thank you so much @ShawnAxsom sir for introducing me to the concept of coffee chats!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26f7fdc15079063d569e3c41773158c32)
+- [@TreciaKS: If you&#39;re learning JavaScript and it doesn&#39;t clickJust add an event listener 😂😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b2db7e2cbe3ac29ca9573c6f60ab61368ddde6df2a26e7ddd120e9a60d16ae3c2137c)
+- [@DhravyaShah: I changed my profile picture!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26f7dda140e9661d16be2c01b7c1d893a)
+- [@DhravyaShah: This is a good opportunity for Amazon to take advantage. Amazon has announced that it has officially completed its acquisition of MGM for $8.45 billion. over 4,000 film titles and 17,000 TV episodes that now join Prime Video it could be a threat to netflix I feel.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26f7ddb150e9160d26ae6c5177d1c8b3b)
+- [@DhravyaShah: Netflix is testing ways to stop you from sharing account passwordswait but doesn&#39;t *everyone* do password sharing? It&#39;s common here in IndiaAlso, what about sharing passwords in family? &lpar;it already warnings if diff family&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26f7ddb150e9268dd6be7c3167914833f)
 <!-- TWITTER:END -->
 
 
