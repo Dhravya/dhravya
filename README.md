@@ -53,11 +53,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah: I want to try Coffee chats, but I&#39;m too shy and socially awkwardalso, how do I get comfortable? I think it has to do with confidence and the &quot;how to&quot; and &quot;what to&quot; talk struggleAlso, thank you so much @ShawnAxsom sir for introducing me to the concept of coffee chats!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26f7fdc15079063d569e3c41773158c32)
-- [@TreciaKS: If you&#39;re learning JavaScript and it doesn&#39;t clickJust add an event listener 😂😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b2db7e2cbe3ac29ca9573c6f60ab61368ddde6df2a26e7ddd120e9a60d16ae3c2137c)
-- [@DhravyaShah: I changed my profile picture!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26f7dda140e9661d16be2c01b7c1d893a)
-- [@DhravyaShah: This is a good opportunity for Amazon to take advantage. Amazon has announced that it has officially completed its acquisition of MGM for $8.45 billion. over 4,000 film titles and 17,000 TV episodes that now join Prime Video it could be a threat to netflix I feel.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26f7ddb150e9160d26ae6c5177d1c8b3b)
-- [@DhravyaShah: Netflix is testing ways to stop you from sharing account passwordswait but doesn&#39;t *everyone* do password sharing? It&#39;s common here in IndiaAlso, what about sharing passwords in family? &lpar;it already warnings if diff family&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26f7ddb150e9268dd6be7c3167914833f)
+- [@DhravyaShah: We all have those times when we&#39;re stuck in fixing javascript bracketspainful](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26f74d81d079169d06ee9c61a7c10893f)
+- [@DhravyaShah: For the first time in my life, the windows troubleshooter actually did somethingthis must be a dream](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26f74df1d0f9a68d36ce0cb147e148e3c)
+- [@DhravyaShah: I just hit 200 followers on  &lpar;@ThePracticalDev&rpar; !Thank you so much for this amazing platform and the amazing people who have always been supportive. The fact that 200 strangers liked reading my blogs is insane. thank you so much ...](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26f75d715099769dc6de1c71579118f3f)
+- [@DhravyaShah: I&#39;ll be honest, outlook and apple mail do a much better job than google at classifying emails as &quot;Spam&quot; or not spam.I mean, Gmail is a little too aggressive and marks so many mails as spam, almost missed some important ones](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26f75d913079367d76ce8cb1779138c3a)
+- [@DhravyaShah: Check out the community I created:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26f75da170e9260d368e4ca147f1d8d3e)
 <!-- TWITTER:END -->
 
 
