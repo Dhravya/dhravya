@@ -53,11 +53,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah: We all have those times when we&#39;re stuck in fixing javascript bracketspainful](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26f74d81d079169d06ee9c61a7c10893f)
-- [@DhravyaShah: For the first time in my life, the windows troubleshooter actually did somethingthis must be a dream](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26f74df1d0f9a68d36ce0cb147e148e3c)
-- [@DhravyaShah: I just hit 200 followers on  &lpar;@ThePracticalDev&rpar; !Thank you so much for this amazing platform and the amazing people who have always been supportive. The fact that 200 strangers liked reading my blogs is insane. thank you so much ...](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26f75d715099769dc6de1c71579118f3f)
-- [@DhravyaShah: I&#39;ll be honest, outlook and apple mail do a much better job than google at classifying emails as &quot;Spam&quot; or not spam.I mean, Gmail is a little too aggressive and marks so many mails as spam, almost missed some important ones](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26f75d913079367d76ce8cb1779138c3a)
-- [@DhravyaShah: Check out the community I created:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26f75da170e9260d368e4ca147f1d8d3e)
+- [@DhravyaShah: it&#39;s @sushixcube btw](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26c7edf14079069d36be4c01b79158d3a)
+- [@DhravyaShah: My friend drew this 🤩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26c7fd6130e9660dc6de1c51779168e33)
+- [@DhravyaShah: Python interview question:What will be the output of this snippet?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26c7fdd11099663d260e6c6107913893b)
+- [@DhravyaShah: waiting for youtube to allow playback speeds more than 2x so i can finish my syllabus faster 😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26c7fde120b9b67d26ce1c2127d108b38)
+- [@DhravyaShah: LET&#39;S GO LET&#39;S GO LET&#39;S GO!!!!!!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26c7cda100e9b64d26ae7c1177a1c8c38)
 <!-- TWITTER:END -->
 
 
