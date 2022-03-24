@@ -53,11 +53,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@DhravyaShah: Yes! most ppl dont know that i &lpar;used to&rpar; play guitari should resume learning actually](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26c78df1c0b9b64d66be9c21578128b3e)
+- [@DhravyaShah: Twitter now shows when tweets are automated](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26c78df13099561d36fe4c4147c108e3d)
+- [@verge: Netflix is getting three more mobile games, including its first FPS](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e093aa0e6c7ad940e849272d4ad4ef00c6fddde68f4a76878db150b9566d36be2)
+- [@DhravyaShah: had an awesome coffee chat with @Buer_Maze and we talked about our experiences in tech, and a lot more! This was my first coffee chat too🤩! Thanks for taking the time out to talk! It was really fun.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26c79d716089367d06ae0c6107e108b33)
 - [@DhravyaShah: it&#39;s @sushixcube btw](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26c7edf14079069d36be4c01b79158d3a)
-- [@DhravyaShah: My friend drew this 🤩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26c7fd6130e9660dc6de1c51779168e33)
-- [@DhravyaShah: Python interview question:What will be the output of this snippet?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26c7fdd11099663d260e6c6107913893b)
-- [@DhravyaShah: waiting for youtube to allow playback speeds more than 2x so i can finish my syllabus faster 😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26c7fde120b9b67d26ce1c2127d108b38)
-- [@DhravyaShah: LET&#39;S GO LET&#39;S GO LET&#39;S GO!!!!!!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26c7cda100e9b64d26ae7c1177a1c8c38)
 <!-- TWITTER:END -->
 
 
