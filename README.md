@@ -53,11 +53,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@elonmusk: Twitter algorithm should be open source](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1a33bdefcff79411ca9573c6f60ab61368ddde6ff3a66b7ed6120d9762d168e6c6107f)
-- [@DhravyaShah: I read this and the first thing that came to my mind was - that&#39;s a syntax error. &#39;I&#39;m&#39; should be written as &#39;I\&#39;m&#39; or they should use &quot;&quot;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26c74db1c089569d06ae3c0137d1d8d3e)
-- [@DhravyaShah: Yes! most ppl dont know that i &lpar;used to&rpar; play guitari should resume learning actually](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26c78df1c0b9b64d66be9c21578128b3e)
-- [@DhravyaShah: Twitter now shows when tweets are automated](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26c78df13099561d36fe4c4147c108e3d)
-- [@verge: Netflix is getting three more mobile games, including its first FPS](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e093aa0e6c7ad940e849272d4ad4ef00c6fddde68f4a76878db150b9566d36be2)
+- [@DhravyaShah: Thanks a lot @kai_jiabo_feng and @charleskwarten4 for following me!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26d79dc14079561d668e0c617791c8b3c)
+- [@DhravyaShah: i love to help but it&#39;s annoying when learning to ask questions properly is a very important skill as a developer](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26d7fd713099763d768e1cb157b138e38)
+- [@DhravyaShah: Hey @elonmusk how do you send someone a Tesla? Asking for a friend who&#39;s asking for a friend who&#39;s asking for a friend](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26d7fd711099461d769e8c41679178c3a)
+- [@DhravyaShah:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26d7fd81c0a9a65dc61e4c2117c128233)
+- [@DhravyaShah:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26d7fd8130a9562d060e8ca177a128e3a)
 <!-- TWITTER:END -->
 
 
