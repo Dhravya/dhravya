@@ -53,11 +53,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@DhravyaShah: after 4 hours, the war between germany and lgbtq rainbow is still going 😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26374d9170e9667d16ee9c6167912883a)
+- [@DhravyaShah: I love reddit. com/r/place](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a26374dd1d0a9469d66be9c7177210823f)
+- [@elonmusk: To think I grew up 2b bizniz magnet 🤩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1a33bdefcff79411ca9573c6f60ab61368ddde61f5ab6a7adb10089766dc68e4c41173)
 - [@Amit_T18: &quot;JavaScript`s global scope is like a public toilet. You can`t avoid going in there, but try to limit your contact with surfaces when you do.&quot; - Dmitry BaranovskiyWhat do you think!? 😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3e32bbf5fdd6d642ca9573c6f60ab61368ddde61f7a2697edc15069163d16ae6c11179)
 - [@DhravyaShah: Yaay! Beloved comments badge](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a2637ed8120a9569d66ce1c6117917833f)
-- [@sanja_kaz: Normal Twitter: “Is a hotdog a sandwich?”Tech Twitter: “Is HTML a programming language?”](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c3ebcebc3dd8c1b9fc974d3e30bb04f76d9db68faa06c7add120b9a67d761e2c3127c1c)
-- [@DhravyaShah: Read this on reddit:The biggest fear in life is not to end up alone. The biggest fear is to end up with people that makes you feel alone- Robin Williams](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a2637fdd10069466d66ae3c0137e1d883d)
-- [@DhravyaShah: The tech that goes behind the smallest of things in big companies like @NetflixEng is INSANE. how Netflix syncs hundreds of millions of devices - using RENO &lpar;rapid event notification system&rpar;so much respect for Netflix engineers &lpar;amazing article&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a2637fde110c9b69d76ae8c71a7310833b)
 <!-- TWITTER:END -->
 
 
