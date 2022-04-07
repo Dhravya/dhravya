@@ -53,11 +53,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@DhravyaShah: Skulls👍](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36b7fd7170c9463d469e3c71a79158f3e)
+- [@DhravyaShah: r/place is over. This was fun...](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36b7fdd1c0f9564d26ce3c71b79118a3f)
 - [@DhravyaShah: To everyone wondering, the stream was on twitch -  They do streams every week monday at 830 pm IST](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36b7dde170b9561d16de5c71472108c3f)
 - [@DhravyaShah: LOVED the stream. It was about hackathons...I learnt a lot today and motivated af to attend more hackathons 💪🏻Thanks to @GitHubEducation - @dwvicy and @skxrxn for giving so many insights, tips and SO MUCH MORE](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36b7dde170d9661d56ee9c1127a178a3d)
 - [@DhravyaShah: I love joining @GitHubEducation&#39;s coffee &lt;/br&gt; with @dwvicy and @skxrxn](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36b7ddf160c9265d76fe7c0107d118d3a)
-- [@DhravyaShah: Couple hours in, India is HUGE and we made the ISRO logo](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36a7cda17099269d261e9c2117d10833f)
-- [@DhravyaShah: India has recovered. GG guys!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36a7cde120c9766d061e0c0127c10893e)
 <!-- TWITTER:END -->
 
 
