@@ -53,11 +53,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah: Quastor Daily blogs are always the best. Here&#39;s one on How Go Mitigates Supply Chain Attacks. It also talks about bloom filters, and some tech snippets](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36b7add17069a62d56ae1c5177f10883e)
-- [@Amit_T18: Like a phone battery, we humans also burn out!Do remember to recharge by🔹 Exercising.🔹 Meditation.🔹 Helping others.🔹 Taking deep naps. 🔹 Spreading positivity.🔹 Doing things you like.🔹 Listening to soothing music.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3e32bbf5fdd6d642ca9573c6f60ab61368dddf69f6ab6d74da1c099064d560e3c1137a)
-- [@DhravyaShah: APIs: Explained to a 5 year old 👶🏻 &lpar;not what you think!&rpar; by @DhravyaShah #DEVCommunity  Click the share to twitter button if you really liked it!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36b78d6100f9066d56de6cb1473128f3b)
-- [@DhravyaShah: I just hit 400 followers on dev community! 🥳🥳🥳 Thank you soooo much for supporting and motivating me to keep writing tutorials and blogs!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36b78d817079268d768e9c31a7d178c39)
-- [@Param_eth: RIP to those who directly jump into Web3 without doing the Web2 development. 😅](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2f3ea0e0cfdd820e8dc974d3e30bb04f76d9db69f2a7697dd7140c9566d768e1c2137816)
+- [@DhravyaShah: Holy shit @OpenAI keeps doing amazing stuff !!!!!WHAT AI ART THIS IS INCREDIBLE](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3687cdf1c079b65d56ee7c316721c823b)
+- [@DhravyaShah: A Rust update is here! Maybe I&#39;ll mess with Rust again](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3687dd811069a62d06be6c0147b14883f)
+- [@DhravyaShah: Daily upside is such a good newsletter I love it @TheDailyUpside](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3687dd914099061dd6be5c31b781d893d)
+- [@DhravyaShah: 8 FOLLOWERS left to 100 followers !!!!!!!!!!!!!!!!! I&#39;m preparing some amazing tweets, tutorials and stuff 👀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3687dda160d9060d46de7c51a7812893b)
+- [@DhravyaShah: &quot;How did I learn to code?&quot; by @DhravyaShah #DEVCommunity](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3687ddb100c9362d66be1ca177a178833)
 <!-- TWITTER:END -->
 
 
