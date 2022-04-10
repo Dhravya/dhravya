@@ -11,8 +11,8 @@
 - 💻 Currently learning React and C.
 - 🌱  Love for science and innovation.
 - 🤖 I'm a Discord verified bot developer and have made [Spacebot](https://top.gg/bot/881862674051391499) and [Millenia](https://millenia.tech)
-- 💬 [Ask me](https://discord.gg/rqhgqTqFbp) about anything, I am happy to help
-- 📫 How to reach me: [Join discord](https://discord.gg/rqhgqTqFbp) or [dhravyashah@gmail.com](mailto:dhravyashah@gmail.com)
+- 💬 [Ask me](https://discord.com/invite/T8WJxsEG) about anything, I am happy to help
+- 📫 How to reach me: [Join discord](https://discord.com/invite/T8WJxsEG) or [dhravyashah@gmail.com](mailto:dhravyashah@gmail.com)
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dhravya&count_private=true&show_icons=true&theme=cobalt" alt="Github Readme stats">
