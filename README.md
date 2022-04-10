@@ -53,11 +53,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah: Holy shit @OpenAI keeps doing amazing stuff !!!!!WHAT AI ART THIS IS INCREDIBLE](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3687cdf1c079b65d56ee7c316721c823b)
-- [@DhravyaShah: A Rust update is here! Maybe I&#39;ll mess with Rust again](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3687dd811069a62d06be6c0147b14883f)
-- [@DhravyaShah: Daily upside is such a good newsletter I love it @TheDailyUpside](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3687dd914099061dd6be5c31b781d893d)
-- [@DhravyaShah: 8 FOLLOWERS left to 100 followers !!!!!!!!!!!!!!!!! I&#39;m preparing some amazing tweets, tutorials and stuff 👀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3687dda160d9060d46de7c51a7812893b)
-- [@DhravyaShah: &quot;How did I learn to code?&quot; by @DhravyaShah #DEVCommunity](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3687ddb100c9362d66be1ca177a178833)
+- [@IAyeshaSahar: Let&#39;s learn Object Oriented Programming concepts with real world examples😉A THREAD 🧵👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e361eabe4d1ea8629848e66d5ad0cb15d2d9d9d77f2a76b7fdb13079661d269e7c3157b1d8e3cc7)
+- [@DhravyaShah: @CallumMckeefery is the CEO of , can you please provide insight? I&#39;m planning to start my own little social media thingy, should i get a .so domain because all others &lpar;well many of them&rpar; are taken?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36879d8120f9a63d56ce2c21a7e178a3e)
+- [@DhravyaShah: Can someone please explain to me why the new cool stuff is coming on the .so TLD?  in general, I&#39;ve seen soo many websites, what&#39;s up with it? Don&#39;t schools and offices just block all websites with .so](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36879d811099265d76ae2c514791d8f3d)
+- [@TheBeginnerDev: One common thing that I think all developers face is that “I need to learn it all.”But the sad truth is, you will never learn it all. So just pick something and get started!{ author: @DhravyaShah } #DEVCommunity #CodeNewbie](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7c3c7e58e148b8375e3e709ea4f2d899a2db0bd6b78de160b9463d561e2ca1b7816883fc36b88)
+- [@DhravyaShah: I&#39;m sooo honored @bendhalpern , the creator of @ThePracticalDev and cofounder of  followed me! DAMN](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36879d91c089560d261e0c7137a148f3a)
 <!-- TWITTER:END -->
 
 
