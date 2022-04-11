@@ -53,11 +53,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@IAyeshaSahar: Let&#39;s learn Object Oriented Programming concepts with real world examples😉A THREAD 🧵👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e361eabe4d1ea8629848e66d5ad0cb15d2d9d9d77f2a76b7fdb13079661d269e7c3157b1d8e3cc7)
-- [@DhravyaShah: @CallumMckeefery is the CEO of , can you please provide insight? I&#39;m planning to start my own little social media thingy, should i get a .so domain because all others &lpar;well many of them&rpar; are taken?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36879d8120f9a63d56ce2c21a7e178a3e)
-- [@DhravyaShah: Can someone please explain to me why the new cool stuff is coming on the .so TLD?  in general, I&#39;ve seen soo many websites, what&#39;s up with it? Don&#39;t schools and offices just block all websites with .so](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36879d811099265d76ae2c514791d8f3d)
-- [@TheBeginnerDev: One common thing that I think all developers face is that “I need to learn it all.”But the sad truth is, you will never learn it all. So just pick something and get started!{ author: @DhravyaShah } #DEVCommunity #CodeNewbie](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7c3c7e58e148b8375e3e709ea4f2d899a2db0bd6b78de160b9463d561e2ca1b7816883fc36b88)
-- [@DhravyaShah: I&#39;m sooo honored @bendhalpern , the creator of @ThePracticalDev and cofounder of  followed me! DAMN](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36879d91c089560d261e0c7137a148f3a)
+- [@DhravyaShah: ANDDD I MANAGED TO CHURN OUT ONE MORE PROJECT FOR THE @DeepgramDevs + @ThePracticalDev Hackathon!!!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3697cd6100f9265d061e4c5107b138b3f)
+- [@DhravyaShah: Today I learned, You can delete the last line of the terminal by using print&lpar;&quot;\033[F\033[K&quot;, end=&quot;&quot;&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3697cd711089362d76ae0c116731c8d32)
+- [@DhravyaShah: 3 years ago, the first ever picture of #blackhole was releasedMade me realise, I&#39;ve been into spaceflight and stuff since more than 3 years! How long have you been following ? 👀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3697dd713089767d160e1c5137a158c3b)
+- [@DhravyaShah: This is sooo good @discord i can&#39;t even believe it&#39;s true](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3697dd7100e9069d66ee9c11573178d33)
+- [@DhravyaShah: So I was just trying to figure out how reddit made r/place at such a scale, with everything in sync, and came across this amazing article, written in 2017. Damn](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3697dde14089365d16be4c01079148a32)
 <!-- TWITTER:END -->
 
 
