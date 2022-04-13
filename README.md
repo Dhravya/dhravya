@@ -53,11 +53,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah: ANDDD I MANAGED TO CHURN OUT ONE MORE PROJECT FOR THE @DeepgramDevs + @ThePracticalDev Hackathon!!!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3697cd6100f9265d061e4c5107b138b3f)
-- [@DhravyaShah: Today I learned, You can delete the last line of the terminal by using print&lpar;&quot;\033[F\033[K&quot;, end=&quot;&quot;&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3697cd711089362d76ae0c116731c8d32)
-- [@DhravyaShah: 3 years ago, the first ever picture of #blackhole was releasedMade me realise, I&#39;ve been into spaceflight and stuff since more than 3 years! How long have you been following ? 👀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3697dd713089767d160e1c5137a158c3b)
-- [@DhravyaShah: This is sooo good @discord i can&#39;t even believe it&#39;s true](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3697dd7100e9069d66ee9c11573178d33)
-- [@DhravyaShah: So I was just trying to figure out how reddit made r/place at such a scale, with everything in sync, and came across this amazing article, written in 2017. Damn](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3697dde14089365d16be4c01079148a32)
+- [@DhravyaShah: I don&#39;t! :D](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36975d61c0f9363d069e6c7137c1c893c)
+- [@mtwn105: Janhit me jaari](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e122ba5ef93b2d255969266d3f70cea0d6cd9dd60f2ab6f7fde160b9363d16ae4c11a)
+- [@DhravyaShah: ah yes, exactly the news i was looking for 💀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3697ad71c0c9a69d569e2cb177c128838)
+- [@DhravyaShah: Making a safer internet with @Cloudflare: 34,250 SSL requests served in the last month! #cloudflare](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3697adb1c0a9163d769e3c3147e158939)
+- [@PythonTrends: 📰👨‍💻 I just published #Python Trends #80  @TDataScience @ignacio_vrgs @TowardsDev @DhravyaShah @thepracticaldev @sad_humanist @ashutoshkrris @inPlainEngHQ @dormoshe #dormosheio #python #pythondev](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2f26a6e9cdecb308808863d4ad0cb15d2d9d9d77f2a76b7ed8160b9b65d56ce5c5107a168e3fc1)
 <!-- TWITTER:END -->
 
 
