@@ -53,11 +53,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah: I don&#39;t! :D](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36975d61c0f9363d069e6c7137c1c893c)
-- [@mtwn105: Janhit me jaari](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e122ba5ef93b2d255969266d3f70cea0d6cd9dd60f2ab6f7fde160b9363d16ae4c11a)
-- [@DhravyaShah: ah yes, exactly the news i was looking for 💀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3697ad71c0c9a69d569e2cb177c128838)
-- [@DhravyaShah: Making a safer internet with @Cloudflare: 34,250 SSL requests served in the last month! #cloudflare](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3697adb1c0a9163d769e3c3147e158939)
-- [@PythonTrends: 📰👨‍💻 I just published #Python Trends #80  @TDataScience @ignacio_vrgs @TowardsDev @DhravyaShah @thepracticaldev @sad_humanist @ashutoshkrris @inPlainEngHQ @dormoshe #dormosheio #python #pythondev](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2f26a6e9cdecb308808863d4ad0cb15d2d9d9d77f2a76b7ed8160b9b65d56ce5c5107a168e3fc1)
+- [@DhravyaShah: Why I&#39;m learning Rust, and you should too](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36e7edf110c9568dd68e1c4167216893a)
+- [@DhravyaShah: How did I learn to code?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36e7edf110f9562d36de5c0177a148b33)
+- [@DhravyaShah: APIs explained to a 5 year old](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36e7edf110f9560d360e3ca1a78148c3f)
+- [@DhravyaShah: Posts I think you will 💖Docker explained to a 5 year old: 50k + views](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36e7edf14079463d46fe6ca16721c8e3c)
+- [@DhravyaShah: I just hit 500 followers on @ThePracticalDev [ ] 🥳🎉I write beginner-friendly tutorials &lpar;with real-life examples&rpar;.What you get from the blog:1. Tutorials2. Exciting tech &amp; products3. Tips &amp; tricks4. Project showcasesFollow -](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36e7fd6120c9368dc60e7c4137c1c8e3d)
 <!-- TWITTER:END -->
 
 
