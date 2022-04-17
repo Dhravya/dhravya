@@ -53,11 +53,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah: Why I&#39;m learning Rust, and you should too](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36e7edf110c9568dd68e1c4167216893a)
-- [@DhravyaShah: How did I learn to code?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36e7edf110f9562d36de5c0177a148b33)
-- [@DhravyaShah: APIs explained to a 5 year old](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36e7edf110f9560d360e3ca1a78148c3f)
-- [@DhravyaShah: Posts I think you will 💖Docker explained to a 5 year old: 50k + views](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36e7edf14079463d46fe6ca16721c8e3c)
-- [@DhravyaShah: I just hit 500 followers on @ThePracticalDev [ ] 🥳🎉I write beginner-friendly tutorials &lpar;with real-life examples&rpar;.What you get from the blog:1. Tutorials2. Exciting tech &amp; products3. Tips &amp; tricks4. Project showcasesFollow -](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36e7fd6120c9368dc60e7c4137c1c8e3d)
+- [@DhravyaShah: WhatsApp to launch communitieshmm... that sounds familiar 🤔ever heard of @discord ?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36f7ddf1c089b61d06ce8c6167e15893a)
+- [@DhravyaShah: Read my latest: “Blog by Dhravya Shah - Issue #2”](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36e74d715069260d46fe5c6117c178c32)
+- [@DhravyaShah: Insane to think that they have been programming since 30+ years!! 🤯 Kelly had been programming ever since they were in kindergarden, highschool. They told me amazing stories about how Ian Murdock &lpar;founder of @debian &rpar; inspired them. Thanks for the amazing time and stories!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36e74d8170a9767dd68e4cb127b1c8b3f)
+- [@DhravyaShah: Had an amazing coffee chat with @kellyjandrews. Such an amazing person and also an amazing story teller!They are a developer advocate at zoom &lpar;I had no idea what that means, but Kelly explained it to me, and it&#39;s soo fascinating&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36e74d8170a9765d06fe9c51072108c3f)
+- [@DhravyaShah: Looks like @Netlify has a new deploy summary feature! really like itor maybe it isn&#39;t new, either way, I really like it](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36e75db17069668d06ce3c41b79178e3f)
 <!-- TWITTER:END -->
 
 
