@@ -53,11 +53,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@DhravyaShah:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36c79d91d099062d560e1c4137c108c3e)
+- [@DhravyaShah: It was really hard for me to get the @GitHubEducation student pack. Here&#39;s my story](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36c7ed616099167d561e0ca1b7f168c38)
 - [@DhravyaShah: my iphone doesnt show that its charging but the battery is going upsend help pls](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36f7ad9150f9264d768e8c113731d8a32)
 - [@DhravyaShah: Cloud functions are event-driven, scalable and serverless APIsBest, Free services:- @awscloud lambda- @Cloudflare workers &lpar;best&rpar;- @googlecloud Functions &lpar;requires CC&rpar;- @vercel functions &lpar;50mb limit&rpar;- @Netlify functions -uses awsTutorials soon! 👀 which one did you like?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36f7add120e9760d16ae0c71573138e38)
 - [@DhravyaShah: #tesla looking kinda sussy and sexy Project is open source -](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36f7bd912079667d56ee2c3177c138d33)
-- [@_dev_code_: Sites where you can get free hosting👇🔹Netlify .com🔹Firebase🔹Vercel .com🔹GitHubPages🔹Surge .sh🔹Render .com🔹Amazone Web hosting🔹Google cloud hosting🔹Glitch .com🔹Fleek .co🔹Begin .com🔹Cloudaccess .net🔹Infinityfree .net](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e203bb7f7fde1881e80b928d4f61eb1492ac7df6df2a76c78dc1c0f9366dd69e2c6177b168f)
-- [@real_vijay: Somewhat concerned that many of these likes are taking this unironically.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d3ab3edfdf48e10849f28d4f61eb1492ac7df6df2a76e7cdc15069064d269e9c61a7f1083)
 <!-- TWITTER:END -->
 
 
