@@ -53,11 +53,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36c79d91d099062d560e1c4137c108c3e)
-- [@DhravyaShah: It was really hard for me to get the @GitHubEducation student pack. Here&#39;s my story](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36c7ed616099167d561e0ca1b7f168c38)
-- [@DhravyaShah: my iphone doesnt show that its charging but the battery is going upsend help pls](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36f7ad9150f9264d768e8c113731d8a32)
-- [@DhravyaShah: Cloud functions are event-driven, scalable and serverless APIsBest, Free services:- @awscloud lambda- @Cloudflare workers &lpar;best&rpar;- @googlecloud Functions &lpar;requires CC&rpar;- @vercel functions &lpar;50mb limit&rpar;- @Netlify functions -uses awsTutorials soon! 👀 which one did you like?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36f7add120e9760d16ae0c71573138e38)
-- [@DhravyaShah: #tesla looking kinda sussy and sexy Project is open source -](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36f7bd912079667d56ee2c3177c138d33)
+- [@DhravyaShah: Had an AMAZING chat with the @aviyelHQ team. DAMN! What an amazing platform they are building- a community-driven platform for Open Source Projects. They already have many &lpar;HUGE&rpar; open source projects like Medusa and Hoppscotch. Really excited to be a part of their community!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36c7add130c9267d16ee5c31479178b3c)
+- [@DhravyaShah: ppl who deploy on managed hosts like vercel and stuff, get your hands dirty its fun but difficult](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36c7bd710069765d56de6c61b791d8239)
+- [@DhravyaShah: you can&#39;t learn if you&#39;ve never spent hours trying to deploy a couple websites on apache2 with no help on the internet because &quot;nginx is obv better&quot;listen, im just too lazy to switch everything from apache2 to nginx. I messed around for hours and all i had to do was one cmd.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36c7bd710099563d36ce1c4147d158a3c)
+- [@DhravyaShah: So, @MySQL really was eating up 7GBs of RAM in my vps.... wtf...](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36c7bdb10099560d06ee7cb1378148839)
+- [@DhravyaShah: Anyone here uses Cloudflare&#39;s KV database or functions?How has your experience been? I&#39;ll start: It&#39;s literally a lifesaver for me. Quick and easy to develop and deploy, free, easy to use. I absolutely 💖 @Cloudflare](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36c7bdc1d0d9b64d56fe6c1177b1d8a3d)
 <!-- TWITTER:END -->
 
 
