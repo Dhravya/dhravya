@@ -53,11 +53,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah: Had an AMAZING chat with the @aviyelHQ team. DAMN! What an amazing platform they are building- a community-driven platform for Open Source Projects. They already have many &lpar;HUGE&rpar; open source projects like Medusa and Hoppscotch. Really excited to be a part of their community!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36c7add130c9267d16ee5c31479178b3c)
-- [@DhravyaShah: ppl who deploy on managed hosts like vercel and stuff, get your hands dirty its fun but difficult](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36c7bd710069765d56de6c61b791d8239)
-- [@DhravyaShah: you can&#39;t learn if you&#39;ve never spent hours trying to deploy a couple websites on apache2 with no help on the internet because &quot;nginx is obv better&quot;listen, im just too lazy to switch everything from apache2 to nginx. I messed around for hours and all i had to do was one cmd.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36c7bd710099563d36ce1c4147d158a3c)
-- [@DhravyaShah: So, @MySQL really was eating up 7GBs of RAM in my vps.... wtf...](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36c7bdb10099560d06ee7cb1378148839)
-- [@DhravyaShah: Anyone here uses Cloudflare&#39;s KV database or functions?How has your experience been? I&#39;ll start: It&#39;s literally a lifesaver for me. Quick and easy to develop and deploy, free, easy to use. I absolutely 💖 @Cloudflare](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36c7bdc1d0d9b64d56fe6c1177b1d8a3d)
+- [@DhravyaShah: how Github made their hooks faster - from 880ms to 10ms It&#39;s so inspiring and insightful to read these from really smart people](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36d7fdd160a9264d36ce9c7177e11893a)
+- [@DhravyaShah: this is so funny](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36d7fde11069466d360e5cb107b1c8839)
+- [@DhravyaShah: is @netflix dying?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36d7cd61d0a9a60d16be7c5147e12823c)
+- [@DhravyaShah: Elon Musk buying 100% of twitter meanwhile me who downloaded it for free on 3 devices from the app storeyes I own 300% of twitter wheres my money](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36d7cd914069068d36de9c61373128333)
+- [@Just_Moh_it: Oracle Cloud just casually de-authorizes accounts for no reason. They don&#39;t even have any support for the so-called non-paid users. Straight up asked me to post on the forum. 2 of my VMs with thousands of daily visitors got ghosted over-night. 😒@myoraclesupport @OracleCloud](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e352aa1f5fdcf8812ba8f7388f10ba4482c9bc169f6a36d7cdd160b9266d661e7c4127c108333)
 <!-- TWITTER:END -->
 
 
