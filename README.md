@@ -53,11 +53,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@DhravyaShah: Damn thats actually my old website](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36d79de170a9266d36fe8cb1173148f33)
+- [@DhravyaShah: Top 10 Chrome extensions all developers should have 👀→ Daily. dev→ WhatRuns/WappAnalyzer→ WhatFont→ Github Gloc→ Github Isometric Contri viewer→ React Devtools→ Redux Devtools→ LightHouse→ JSON Viewer→ ScribeHow→ Return Yt dislikes &lpar;for the tutorials&rpar;👇🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36d7eda160c9762dc6ce1cb167917883c)
 - [@DhravyaShah: how Github made their hooks faster - from 880ms to 10ms It&#39;s so inspiring and insightful to read these from really smart people](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36d7fdd160a9264d36ce9c7177e11893a)
 - [@DhravyaShah: this is so funny](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36d7fde11069466d360e5cb107b1c8839)
 - [@DhravyaShah: is @netflix dying?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36d7cd61d0a9a60d16be7c5147e12823c)
-- [@DhravyaShah: Elon Musk buying 100% of twitter meanwhile me who downloaded it for free on 3 devices from the app storeyes I own 300% of twitter wheres my money](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36d7cd914069068d36de9c61373128333)
-- [@Just_Moh_it: Oracle Cloud just casually de-authorizes accounts for no reason. They don&#39;t even have any support for the so-called non-paid users. Straight up asked me to post on the forum. 2 of my VMs with thousands of daily visitors got ghosted over-night. 😒@myoraclesupport @OracleCloud](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e352aa1f5fdcf8812ba8f7388f10ba4482c9bc169f6a36d7cdd160b9266d661e7c4127c108333)
 <!-- TWITTER:END -->
 
 
