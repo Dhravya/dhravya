@@ -53,11 +53,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@DhravyaShah: Read this on  Now Windows is still the best wayif all that you want is to play,Use Linux to hackOr else get a Mac,if you are really happy to pay.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3627fd6150d9569d36ae4c61572158d32)
+- [@DhravyaShah: How Quora shards their MySQL database, by @ArpanKG  article explained perfectlyI lovee quastor](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3627dd9130c9161dc6ce5c2137f1c8e39)
 - [@DhravyaShah: Damn thats actually my old website](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36d79de170a9266d36fe8cb1173148f33)
 - [@DhravyaShah: Top 10 Chrome extensions all developers should have 👀→ Daily. dev→ WhatRuns/WappAnalyzer→ WhatFont→ Github Gloc→ Github Isometric Contri viewer→ React Devtools→ Redux Devtools→ LightHouse→ JSON Viewer→ ScribeHow→ Return Yt dislikes &lpar;for the tutorials&rpar;👇🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36d7eda160c9762dc6ce1cb167917883c)
 - [@DhravyaShah: how Github made their hooks faster - from 880ms to 10ms It&#39;s so inspiring and insightful to read these from really smart people](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36d7fdd160a9264d36ce9c7177e11893a)
-- [@DhravyaShah: this is so funny](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36d7fde11069466d360e5cb107b1c8839)
-- [@DhravyaShah: is @netflix dying?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36d7cd61d0a9a60d16be7c5147e12823c)
 <!-- TWITTER:END -->
 
 
