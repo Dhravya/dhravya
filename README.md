@@ -53,11 +53,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah: Read this on  Now Windows is still the best wayif all that you want is to play,Use Linux to hackOr else get a Mac,if you are really happy to pay.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3627fd6150d9569d36ae4c61572158d32)
-- [@DhravyaShah: How Quora shards their MySQL database, by @ArpanKG  article explained perfectlyI lovee quastor](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3627dd9130c9161dc6ce5c2137f1c8e39)
-- [@DhravyaShah: Damn thats actually my old website](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36d79de170a9266d36fe8cb1173148f33)
-- [@DhravyaShah: Top 10 Chrome extensions all developers should have 👀→ Daily. dev→ WhatRuns/WappAnalyzer→ WhatFont→ Github Gloc→ Github Isometric Contri viewer→ React Devtools→ Redux Devtools→ LightHouse→ JSON Viewer→ ScribeHow→ Return Yt dislikes &lpar;for the tutorials&rpar;👇🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36d7eda160c9762dc6ce1cb167917883c)
-- [@DhravyaShah: how Github made their hooks faster - from 880ms to 10ms It&#39;s so inspiring and insightful to read these from really smart people](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36d7fdd160a9264d36ce9c7177e11893a)
+- [@DhravyaShah: @poet_this](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3627bd912069a60d061e3c2157c1c893e)
+- [@poet_this: Here&#39;s your beautiful screenshot of the tweet](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30b7f5fdf68f1396c974d3e30bb04f76d9db69fba46c7ed613079665d668e0c010791d)
+- [@DhravyaShah: @poet_this](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3627bd917089a67d46ae9c41b721d8b3e)
+- [@poet_this:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30b7f5fdf68f1396c974d3e30bb04f76d9db69fba46c7ede160a9261d760e1c111791c)
+- [@DhravyaShah: @poet_this](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3627bd916069064d461e7c51b7c108f3b)
 <!-- TWITTER:END -->
 
 
