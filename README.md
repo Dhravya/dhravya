@@ -53,11 +53,11 @@ alt="Github streaks">
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah: @poet_this](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3627bd912069a60d061e3c2157c1c893e)
-- [@poet_this: Here&#39;s your beautiful screenshot of the tweet](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30b7f5fdf68f1396c974d3e30bb04f76d9db69fba46c7ed613079665d668e0c010791d)
-- [@DhravyaShah: @poet_this](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3627bd917089a67d46ae9c41b721d8b3e)
-- [@poet_this:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30b7f5fdf68f1396c974d3e30bb04f76d9db69fba46c7ede160a9261d760e1c111791c)
-- [@DhravyaShah: @poet_this](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3627bd916069064d461e7c51b7c108f3b)
+- [@MakadiaHarsh: Minor adjustments that lead to significant impact:▶️ JavaScript before React ▶️ Python before Django▶️ CSS before Tailwind CSS▶️ Think before Code▶️ Understand before Copying ▶️ Build before Learning a new framework](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e323eb9e0c6eb8632849474cfad0cb15d2d9d9d77f2a76b75d6130d9461d461e2ca1373178a3dcc)
+- [@DhravyaShah: If Elon Musk buys Twitter, I&#39;ll do 100 pushups &lpar;for the engagement&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36275d710079061dc6be6c1127d12893f)
+- [@DhravyaShah:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36275d717099661d56fe3cb147d128e3d)
+- [@PR0GRAMMERHUM0R: this is a cry for help](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2f0de2c6f0c3aa37a0b44ff2cf4f97132a9c8f2cb6e1757cda15079b67d26de7cb1a7c16823dcc6482c2)
+- [@DhravyaShah: @poet_this](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a36275d8120f9665dc6be8c31b731d8c3d)
 <!-- TWITTER:END -->
 
 
