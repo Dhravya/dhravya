@@ -37,11 +37,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@hooman_bean_: Here&#39;s a neat little bot created by @DhravyaShah that give you beautiful screenshots of tweets. Also thanks to @KermitKitchen for letting me use your viral tweet as an example.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1730bdecc3ecb818808769f8ad0cb15d2d9d9d77f2a7687ddf14089a60dd6ee6ca1b7f12833ac3)
 - [@DhravyaShah: dudee the stuff they are building at @aviyelHQ is INSANE! can&#39;t wait for it to be implemented. will help the open source community and incentivise more contributions - both code and non-code](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3637bdc140d9762dd6ce2c21b7e148f3b)
 - [@discord: sometimes i like to sit in vc by myself just to see if anyone joins](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1b36a1e2cdf08355969266d3f70cea0d6cd9d76bf4a56c74df130e9568d76fe7c61b)
 - [@DhravyaShah: @poet_this I take this as a challenge](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3637fd713089165d56ce9c312791d8a39)
 - [@DhravyaShah: Can a twitter bot get 1000 followers in 100 days? Let&#39;s do it](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a3637fd7130a9462dd6ee7c3167d178b3d)
-- [@hackertabdev: I made a twitter bot to take beautiful screenshots of a tweet by @DhravyaShah#python #showdev #hackertab](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e173eb1eac7f0931b878262d1ad0cb15d2d9d9d77f2a76b74de120b9764d269e2c6137e108c3ec7)
 <!-- TWITTER:END -->
 
 
