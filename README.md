@@ -37,11 +37,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@kvncnls: “Web3 is all about transparency and privacy.”Web3:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1429bce2ccee9455969266d3f70cea0d6cdadf6cfbab6a79dc1d089267dc6ae9cb14)
-- [@DhravyaShah: and don&#39;t get me started on the science lol 💀💀💀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06b7dd8110a9769dd6de9c7157b168f3b)
-- [@DhravyaShah: words from an IITian 💀 I mean do your religious ceremony as good as you want but science bolke justify krna zaroori ha kya?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06b7dd8110b9165d161e2c01a7d1d8a39)
-- [@DhravyaShah: i dont see people anymore.all i see are lines of code walking aroundwaiting to be twisted by my hand into anything i could wish for.females tremble in my presence.i code in py and js, for any plebians who wish to attune themselves to my greatness.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06b7dda14099563d561e2ca1b7a148c39)
-- [@DhravyaShah: Subscribe to my newsletter!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06b7ddb100e9362d46ce8cb1b79108f33)
+- [@poet_this: new update coming 👀👀 - Completely new IMGEN, Poet. so is no longer used. - Media support, Embed preview support&lpar;coming soon&rpar;- Replies now have preview of the original tweet &lpar;for context&rpar;- Emoji support, Better fontOverall, this is completely new and different.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30b7f5fdf68f1396c974d3e30bb04f76d9db6af2ab6875df110f9466d46be5c01b7c12)
+- [@ThePracticalDev: Congrats to our top authors of the week: @JustTanwa, @ChadwinJDeysel, @StephSema, Melissa, Hung, @ToddLibby, and @DhravyaShah! Thanks for sharing your insights with the community 🌟{ author: @MichaelMadcat } #DEVCommunity](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7d1d0e3840e8c8566cbc61ab3132a9c8f2cb6e1757cda160e9a61dd6be2c71b7d1d8b39c46a84c5)
+- [@DhravyaShah: see? i know no one used the API anyways](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06b75de10079563d468e0c41472178c3d)
+- [@DhravyaShah: I turned on the API again](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06b75de160a9060d069e8c3127e11883c)
+- [@FuelerHQ: If you didn&#39;t succeed, thenYou will fail, You will fall, You will cry, But, You will fight back, You will not settle losing,You will not leave the game. Success is your only option, failure&#39;s not.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e392ab7edc7f0af2bca9573c6f60ab61368dddc69f4a06b78dd140a9061d060e6c21579)
 <!-- TWITTER:END -->
 
 
