@@ -47,4 +47,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhravya&label=Profile%20views&color=0e75b6&style=flat" alt="dhravya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhravya" alt="dhravya" /></a> </p>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R782RBF)
+
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=dhravya" alt="dhravya" /> </p>
