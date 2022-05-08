@@ -37,11 +37,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@DhravyaShah: so... I made a clone of poet .so, but better.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06878da1c079360dc69e6c61b721d8b3e)
+- [@DhravyaShah: i am so, so, soo burnt out...](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06879d912099469d760e9c2167a108c3f)
 - [@DhravyaShah: I want you to read this xkcd.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0687fd6100f9b62dc6ee8c4107b10833b)
 - [@DhravyaShah: @poet_this](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0687fdf130b9164d56ee8c3107315823f)
 - [@DhravyaShah: Yaaayyyyy](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0687fdf110a9667d76be5c5177c128839)
-- [@DhravyaShah: Made a little bit of a frontend for the screenshot thing i had made](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0687cd91d089a69d56be8cb107d168c39)
-- [@DhravyaShah: Very cool bot](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0687cdf1c099a67d56ee8c11a7c138c3d)
 <!-- TWITTER:END -->
 
 
