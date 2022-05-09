@@ -47,7 +47,7 @@
 <!-- TWITTER:END -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhravya&label=Profile%20views&color=0e75b6&style=flat" alt="dhravya" /> </p>
+<img src="https://profile-counter.glitch.me/dhravya/count.svg" alt="dhravya :: Visitor's Count" />
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R782RBF)
 
