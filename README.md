@@ -37,11 +37,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah: so... I made a clone of poet .so, but better.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06878da1c079360dc69e6c61b721d8b3e)
-- [@DhravyaShah: i am so, so, soo burnt out...](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06879d912099469d760e9c2167a108c3f)
-- [@DhravyaShah: I want you to read this xkcd.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0687fd6100f9b62dc6ee8c4107b10833b)
-- [@DhravyaShah: @poet_this](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0687fdf130b9164d56ee8c3107315823f)
-- [@DhravyaShah: Yaaayyyyy](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0687fdf110a9667d76be5c5177c128839)
+- [@DhravyaShah: but yeah, damn...](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0697ed71d0f9067dc69e9c6177c1c8e3d)
+- [@DhravyaShah: my alt personality is damn-ing and meanwhile i cant figure out how to solve one damn bug](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0697ed71c069468d46be6c216791d8f3f)
+- [@DhravyaShah: this is the only reason i have made an alternate account on stackoverflow just to ask a couple questions](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0697ede15089262d369e9c51a7d1c8a3d)
+- [@DhravyaShah: . @StackOverflow is cool and all but im just too afraid to ask questions there, because there is a possibility that the solution is very easy and someone will say &quot;OH YOU DUMB SEE THIS LINK WHERE IT CLEARLY SAYS DUMB QUESTIONS ARE NOT ALLOWED&quot;ofc, an exaggeration, but still](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0697ede150a9662d569e9ca1672138238)
+- [@DhravyaShah: @poet_this](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0697fda10079365d16be1c01b7910833a)
 <!-- TWITTER:END -->
 
 
