@@ -39,11 +39,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@DhravyaShah: . @GatsbyJS is literally PERFECT for personal blogs, even though it&#39;s not really used too much anymore, there&#39;s just so much stuff that makes it soooo easy to do stuff](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0697add14079b69d660e5c61673148b3a)
+- [@DhravyaShah: typescript is something really really really easy to read, and it feels like &quot;huh, i can do that too!&quot;but when it comes to writing code...](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06978d7140d9365d36ae1cb107b17893a)
+- [@DhravyaShah: i only have one final month of @EducativeInc student pack left :&lpar;i wish i took even more advantage of it](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06978da100e9a63d660e3c31b7216823d)
 - [@DhravyaShah: but yeah, damn...](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0697ed71d0f9067dc69e9c6177c1c8e3d)
 - [@DhravyaShah: my alt personality is damn-ing and meanwhile i cant figure out how to solve one damn bug](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0697ed71c069468d46be6c216791d8f3f)
-- [@DhravyaShah: this is the only reason i have made an alternate account on stackoverflow just to ask a couple questions](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0697ede15089262d369e9c51a7d1c8a3d)
-- [@DhravyaShah: . @StackOverflow is cool and all but im just too afraid to ask questions there, because there is a possibility that the solution is very easy and someone will say &quot;OH YOU DUMB SEE THIS LINK WHERE IT CLEARLY SAYS DUMB QUESTIONS ARE NOT ALLOWED&quot;ofc, an exaggeration, but still](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0697ede150a9662d569e9ca1672138238)
-- [@DhravyaShah: @poet_this](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0697fda10079365d16be1c01b7910833a)
 <!-- TWITTER:END -->
 
 
