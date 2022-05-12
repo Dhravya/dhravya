@@ -39,11 +39,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@DhravyaShah: @poet_this now screenshot this so i can share to instagram 😄](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06e7ed813099264dd61e1c2147a1c893e)
+- [@DhravyaShah: YOO @poet_this is just 2 followers away from 200 followers!So funny, my bot is double in followers than me! I made this account 2 years ago, and the bot was made.... ... 10 days ago! 😂😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06e7ed8130b9066d66de0c31579128b32)
+- [@DhravyaShah: fml](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06e7edd130d9768d36fe6c31a78108333)
+- [@ykdojo: learn Python, thank me later](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0634b6eec8edc809918773d2f150f4096bdcdc60f0aa6a7fd917089067d66ce5c2)
 - [@DhravyaShah: . @GatsbyJS is literally PERFECT for personal blogs, even though it&#39;s not really used too much anymore, there&#39;s just so much stuff that makes it soooo easy to do stuff](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0697add14079b69d660e5c61673148b3a)
-- [@DhravyaShah: typescript is something really really really easy to read, and it feels like &quot;huh, i can do that too!&quot;but when it comes to writing code...](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06978d7140d9365d36ae1cb107b17893a)
-- [@DhravyaShah: i only have one final month of @EducativeInc student pack left :&lpar;i wish i took even more advantage of it](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06978da100e9a63d660e3c31b7216823d)
-- [@DhravyaShah: but yeah, damn...](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0697ed71d0f9067dc69e9c6177c1c8e3d)
-- [@DhravyaShah: my alt personality is damn-ing and meanwhile i cant figure out how to solve one damn bug](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0697ed71c069468d46be6c216791d8f3f)
 <!-- TWITTER:END -->
 
 
