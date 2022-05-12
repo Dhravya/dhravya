@@ -5,7 +5,7 @@
 </div>
 
 ## ✨ Some stuff about me
-- 👨🏽‍💻 I’m currently working on [a twitter bot](https://dev.to/dhravya/i-made-a-twitter-bot-to-take-beautiful-screenshots-of-a-tweet-3kk5)
+- 👨🏽‍💻 I’m currently working on [my blog](https://blog.dhravya.dev)
 - 🤔 Looking for projects to collaborate on / collaborators for my projects
 - 💻 Currently learning NextJS
 - 📝 I regularly write articles on [blog.dhravya.dev](https://blog.dhravya.dev) and [dev.to/dhravya](https://dev.to/dhravya)
