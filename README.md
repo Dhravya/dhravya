@@ -39,11 +39,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@DhravyaShah: layer 6 security be like](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06f7cd7110e9763d168e8c21a79178d33)
+- [@DhravyaShah: 1. Most of the user interface has changed. Home page is completely new. 2. Extensions have been introduced. Would be interesting to look into them3. There are featured images on the homepage with proper documentation &lpar;RIGHT IN THE APP!&rpar;if you haven&#39;t yet, update to 4.8.1](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06f7cde150f9765d768e7cb107a168a3d)
+- [@DhravyaShah: Just had a talk with some folks over at @Docker. It was great meeting them, they were so nice! I&#39;m glad I helped make Docker easier to use.The meet was mostly about feedback regarding the new Docker Desktop - and hey! It&#39;s completely new now! so many new exciting features](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06f7cde150f9069d46be9c2157b118838)
+- [@DhravyaShah: windows.... broooooo I didn&#39;t ask for that](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06e74d711079365d26ee5c2117f118d3b)
 - [@DhravyaShah: Thanks for the mention!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06e7bd91c0f9261d160e3ca127f16893f)
-- [@poet_this: AAAAAAAAAAA@TwitterDev pls no ratelimit 🥺🥺](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30b7f5fdf68f1396c974d3e30bb04f76d9db6af7a46e78d91c079262d36be4c1167b1c)
-- [@DhravyaShah: @poet_this now screenshot this so i can share to instagram 😄](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06e7ed813099264dd61e1c2147a1c893e)
-- [@DhravyaShah: YOO @poet_this is just 2 followers away from 200 followers!So funny, my bot is double in followers than me! I made this account 2 years ago, and the bot was made.... ... 10 days ago! 😂😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06e7ed8130b9066d66de0c31579128b32)
-- [@DhravyaShah: fml](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06e7edd130d9768d36fe6c31a78108333)
 <!-- TWITTER:END -->
 
 
