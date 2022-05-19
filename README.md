@@ -39,11 +39,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@dhravyaiscrazyy: I am such a disappointment](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1b37a0e0d4fb8613968575c6f806bc132a9c8f2cb6e1757cda16099765d56ce8c31479158c3ac46b86c1)
 - [@poet_this: Can a Twitter bot get 1000 followers in 30 days?Yes, I changed the goal from 100 to 30. 15 days remaining. WE CAN DO THIS! &lpar;somehow, maybe&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30b7f5fdf68f1396c974d3e30bb04f76d9db6af5a06a74de16099261dc60e5c3157217)
 - [@DhravyaShah: NEW HIGH SCORE](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06c7cd7110f9266dc6ee7ca1673118a39)
 - [@DhravyaShah: It is easier to fool people than telling foolish people that they have been fooled](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06c7cd8160a9264d56de6c21278148b33)
 - [@DhravyaShah: Check the spam folder once every week, I almost missed an opportunity](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06c7cd9150c9168dc6de0c41a7e15893b)
-- [@DhravyaShah: Pro tip 💡 if you want to highlight a part of your website &lpar;for a search, for example&rpar;, you can append the URL with `#:~:text=&lt;text&gt;`These are called Web fragments, introduced in Chrome 80, they currently only work on Chromium-based browsers.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06c7cdb12069363d568e6cb147216833a)
 <!-- TWITTER:END -->
 
 
