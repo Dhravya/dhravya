@@ -39,11 +39,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@DhravyaShah: AAAAAAAAAAAAAAAAAAAAA](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0637ddb1d0a9362d76ae9c5107a128d3e)
 - [@DhravyaShah:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0627ad812089064d16be9c1167d138e39)
 - [@mtwn105: What about the crores of jobs created by top 1% 😀?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e122ba5ef93b2d255969266d3f70cea0d6cdad66ff6a06c7ddb160c9363d760e2c013)
 - [@DhravyaShah: its not about the tshirts its about the sense of achievement](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0627add170d9265d46de6c6117d108a3d)
 - [@DhravyaShah: Just recieved my Tshirts from @ThePracticalDev DEV community! I&#39;m so glad to be a part of this amazing community. Thank you @bendhalpern for such a great platform](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0627ade1c0c9b63d16ae9c01a7f108a3c)
-- [@poet_this: Also, a huge shout out to the top users of the bot. You guys helped spread the word. 1 - @ata_sijijui 2 - @amaniHAJEMBE 3 - @anerlyst 4 - @DhravyaShah 5 - @Joses_Wilber 6 - @abumAnyichukwu 7 - @chrismorytoh](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30b7f5fdf68f1396c974d3e30bb04f76d9db6afba2637ede120b9a63d66fe7c1127c16)
 <!-- TWITTER:END -->
 
 
