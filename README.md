@@ -39,11 +39,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah: AAAAAAAAAAAAAAAAAAAAA](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0637ddb1d0a9362d76ae9c5107a128d3e)
-- [@DhravyaShah:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0627ad812089064d16be9c1167d138e39)
-- [@mtwn105: What about the crores of jobs created by top 1% 😀?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e122ba5ef93b2d255969266d3f70cea0d6cdad66ff6a06c7ddb160c9363d760e2c013)
-- [@DhravyaShah: its not about the tshirts its about the sense of achievement](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0627add170d9265d46de6c6117d108a3d)
-- [@DhravyaShah: Just recieved my Tshirts from @ThePracticalDev DEV community! I&#39;m so glad to be a part of this amazing community. Thank you @bendhalpern for such a great platform](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0627ade1c0c9b63d16ae9c01a7f108a3c)
+- [@poet_this: Here&#39;s your beautiful screenshot of the tweet](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30b7f5fdf68f1396c974d3e30bb04f76d9db6afaa66378d6170a9361d76de7cb12731c)
+- [@DhravyaShah: OMG OMG OMG @mtwn105 🥺 thank you for sponsoring me 🙏🏻🙏🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06379d7170d9666d56de8c51a72178a39)
+- [@DhravyaShah: My biggest flex is that my name is so unique, if you search up &quot;dhravya&quot;, my website comes up as a search resultAnd if you search up &quot;dhravya shah&quot;, it&#39;s literally just me everywhere](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0637ed71c079561d56fe0c6167d148a3c)
+- [@DhravyaShah: My GitHub Sponsors profile is live! You can sponsor me to support my open source work 💖](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0637eda15069a63d76be8cb147a128b3b)
+- [@aviyelHQ: 📣 📣Our @ProductHunt launch is set for Friday - 27th of May! 🚀 We are truly excited to ship our Rewards Platform for all amazing open-source projects and communities out there! 💜 🌱 📈 What about the top 20 supporters who give us the best feedback on 27th? ⬇️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e29bbf8c7eeaf2bca9573c6f60ab61368dddc61f0a6637dd8120c9a60d36ee7c0167b)
 <!-- TWITTER:END -->
 
 
