@@ -39,11 +39,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@poet_this: Here&#39;s your beautiful screenshot of the tweet](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30b7f5fdf68f1396c974d3e30bb04f76d9db6afaa66378d6170a9361d76de7cb12731c)
-- [@DhravyaShah: OMG OMG OMG @mtwn105 🥺 thank you for sponsoring me 🙏🏻🙏🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06379d7170d9666d56de8c51a72178a39)
-- [@DhravyaShah: My biggest flex is that my name is so unique, if you search up &quot;dhravya&quot;, my website comes up as a search resultAnd if you search up &quot;dhravya shah&quot;, it&#39;s literally just me everywhere](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0637ed71c079561d56fe0c6167d148a3c)
-- [@DhravyaShah: My GitHub Sponsors profile is live! You can sponsor me to support my open source work 💖](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0637eda15069a63d76be8cb147a128b3b)
-- [@aviyelHQ: 📣 📣Our @ProductHunt launch is set for Friday - 27th of May! 🚀 We are truly excited to ship our Rewards Platform for all amazing open-source projects and communities out there! 💜 🌱 📈 What about the top 20 supporters who give us the best feedback on 27th? ⬇️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e29bbf8c7eeaf2bca9573c6f60ab61368dddc61f0a6637dd8120c9a60d36ee7c0167b)
+- [@DhravyaShah: Here&#39;s a sneak peak into what&#39;s coming up!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06374df16089365d461e4c5147a128d3f)
+- [@DhravyaShah: The blue plain background looks absolutely gorgeous](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06374df160b9260d668e7ca117b17883d)
+- [@DhravyaShah: For the twitter bot part, I&#39;m implementing- Queues- Typo-resistance &lpar;beutify, baetify will work&rpar;By the way, the bot is completely free to use! Become a sponsor -](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06374df160e9564d161e4c6157b118239)
+- [@DhravyaShah: Alright! Time for a @poet_this updateHere&#39;s what I&#39;m working on:- Various gradient backgrounds- Dark backgrounds- Plain, single-color backgrounds- Backgrounds based on sentimentThat&#39;s just the API part of it.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06374df160e9562d16ce1c0167a158e39)
+- [@DhravyaShah: I&#39;ve already enabled it! sponsor me -](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a0637adf10099269d360e1c7117f118932)
 <!-- TWITTER:END -->
 
 
