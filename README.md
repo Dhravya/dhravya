@@ -5,9 +5,9 @@
 </div>
 
 ## ✨ Some stuff about me
-- 👨🏽‍💻 I’m currently working on [my blog](https://blog.dhravya.dev)
+- 👨🏽‍💻 I’m currently working on [Poet_this Twitter bot](https://twitter.com/poet_this)
 - 🤔 Looking for projects to collaborate on / collaborators for my projects
-- 💻 Currently learning NextJS
+- 💻 Currently learning NextJS and Vue
 - 📝 I regularly write articles on [blog.dhravya.dev](https://blog.dhravya.dev) and [dev.to/dhravya](https://dev.to/dhravya)
 - 🌱  Love for science and innovation, Space Nerd, Reader and (technical) writer ✍🏻
 - 📫 How to reach me: [Join discord](https://discord.gg/z7MZYhmx6w) or [contact@dhravya.dev](mailto:contact@dhravya.dev)
@@ -50,5 +50,8 @@
 <img src="https://profile-counter.glitch.me/dhravya/count.svg" alt="dhravya :: Visitor's Count" />
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R782RBF)
+
+Sponsor me:
+<iframe src="https://github.com/sponsors/Dhravya/card" title="Sponsor Dhravya" height="225" width="600" style="border: 0;"></iframe>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=dhravya" alt="dhravya" /> </p>
