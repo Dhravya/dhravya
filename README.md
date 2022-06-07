@@ -39,11 +39,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@DhravyaShah: DEV community sent me one more sticker pack?accidentally?@ThePracticalDev](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a16979de1c099764d361e3c6117f1d8f3f)
 - [@DhravyaShah: I have applied the stickersHow does it look?👀👀thank you soo much ⁦@ThePracticalDev⁩ and ⁦@DeepgramDevs⁩ hackathon](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a16a7cdb100a9a62d66de4c51b7f1d8f3f)
 - [@DhravyaShah: STICKERS have arrived!!! Can&#39;t wait to put them on 🥳🥳](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a16a7cdc1d069663d26de6c71a7a178a38)
 - [@DhravyaShah: Here&#39;s a sneak peak into what&#39;s coming up!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06374df16089365d461e4c5147a128d3f)
 - [@DhravyaShah: The blue plain background looks absolutely gorgeous](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06374df160b9260d668e7ca117b17883d)
-- [@DhravyaShah: For the twitter bot part, I&#39;m implementing- Queues- Typo-resistance &lpar;beutify, baetify will work&rpar;By the way, the bot is completely free to use! Become a sponsor -](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a06374df160e9564d161e4c6157b118239)
 <!-- TWITTER:END -->
 
 
