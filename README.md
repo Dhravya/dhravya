@@ -39,11 +39,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah: Spotify will be launching audiobooks soonI AM SO EXCITED FOR THIS@Spotify @tldrnewsletter @verge](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a16f7fdc160c9560d660e2c4147b148839)
-- [@poet_this: Is it possible for me to hit 5000 followers today?!After 3 HUGE updates today, YES! Let&#39;s do itHelp me by spreading the word and ofcourse, Keep Beautifying!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30b7f5fdf68f1396c974d3e30bb04f76d9db6bf6a36379da12069163d56ee7c1147314)
-- [@DhravyaShah: Hey @ProductHunt , I accidentally connected the wrong twitter account with my profile, and there&#39;s no option to change itany way to fix this?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a16e75d9170f9564d26fe7c0127b15823f)
-- [@DhravyaShah: i am cool](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a16e75df16069568d76be1c1127a12823c)
-- [@DhravyaShah: im so glad i could figure it out though](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a16e7ad915099368dc60e6c2137c168a3c)
+- [@DhravyaShah: Code is like humor, if you need to explain it, it&#39;s bad](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a16f74dd1c0f9a65d16ae1ca1479108d3f)
+- [@FrancescoCiull4: Wikipedia is down. I think it&#39;s because of all the requests to update the &quot;Web5&quot; page.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e392db3efc1e794198aa56ed2ee13f1132a9c8f2cb6e1757cda170a9a60d568e3c6157d148a3ec36287c2)
+- [@sushixcube: So I saw this this of combining any other characters with deadpool amd tried it myself ngl I am proud hhehe#MarvelStudios #Onepiecefanart #digitalart #fanart #notacringeart #merameranomi](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2aa1e9cbfa840f878328d4f61eb1492ac7df6df0a76c79db100a9b60d261e1cb107c178d)
+- [@DhravyaShah: I&#39;m just as confused as you are](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a16f78df1d0b9368d66ee5c61b7f1c8e3a)
+- [@DhravyaShah: I sat on am self driving bike!? The dude literally barely touched the handle and on turns it just... did stuff? what?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a16f78df1d0c9667d261e2c5157a118939)
 <!-- TWITTER:END -->
 
 
