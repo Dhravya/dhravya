@@ -39,11 +39,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah: Code is like humor, if you need to explain it, it&#39;s bad](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a16f74dd1c0f9a65d16ae1ca1479108d3f)
-- [@FrancescoCiull4: Wikipedia is down. I think it&#39;s because of all the requests to update the &quot;Web5&quot; page.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e392db3efc1e794198aa56ed2ee13f1132a9c8f2cb6e1757cda170a9a60d568e3c6157d148a3ec36287c2)
-- [@sushixcube: So I saw this this of combining any other characters with deadpool amd tried it myself ngl I am proud hhehe#MarvelStudios #Onepiecefanart #digitalart #fanart #notacringeart #merameranomi](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2aa1e9cbfa840f878328d4f61eb1492ac7df6df0a76c79db100a9b60d261e1cb107c178d)
-- [@DhravyaShah: I&#39;m just as confused as you are](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a16f78df1d0b9368d66ee5c61b7f1c8e3a)
-- [@DhravyaShah: I sat on am self driving bike!? The dude literally barely touched the handle and on turns it just... did stuff? what?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a16f78df1d0c9667d261e2c5157a118939)
+- [@DhravyaShah: Sold yet? Install cakecutter! Spread the word by retweeting the first tweet](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a16d7bd915089668d66ee0c5137b118239)
+- [@DhravyaShah: But hold up! That&#39;s not even it! You can even publish cakes, or use other&#39;s cakes. Browse them at . Like one? Use the command `npx cc cut &lt;cake_name&gt;`And it will generate a boilerplate code so you can quickstart your project](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a16d7bd915099068dd60e3c5157b1d8f3f)
+- [@DhravyaShah: This is a hell lot of power and functionality in just ONE CakeFile! &lpar;Just like real cakes &rpar;Have a look at the example cakes to know how they are written](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a16d7bd915099062dc61e9c3167d148f33)
+- [@DhravyaShah: For example, asking if the project should Typescript or javascript. If typescript, generate the tsconfig.json file. Or, asking the name of the user to generate licenseYou can even run commands based on answers. Eg. use case would be asking host OS to run setup commands!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a16d7bd915099061d46de7ca167d118239)
+- [@DhravyaShah: So cakecutter helps you to create a project- generator simply by writing a TOML file!And that&#39;s not even it.Questions can be asked when creating a project, which can be a selection or input.and the answers &lpar;that users give&rpar; can be used to programmatically &quot;cut&quot; the cake.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a16d7bd915099167d26fe3c21772128f33)
 <!-- TWITTER:END -->
 
 
