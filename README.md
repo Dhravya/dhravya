@@ -39,11 +39,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah: that will reduce spam and scam crypto bots. Twitter can also create an entire infrastucture &lpar;Discord has done an amazing job at this&rpar; for bots, like, bot commands and stuff like that.This will make twitter a platform, not only for business, but for bots, like slack and discord](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a1627cd91d0e9162dc6de6c31278158b3f)
-- [@DhravyaShah: I think @TwitterDev Twitter should create a bot ecosystem like Discord has, which will be automatically moderated. Giving the automated tag is a good start. Popular bots should be able to verify &lpar;Like, bot verification&rpar;The API should be completely blocked for &quot;user-bots&quot;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a1627cd91d0e9269dc69e3c2177f13833f)
-- [@DhravyaShah: Sold yet? Install cakecutter! Spread the word by retweeting the first tweet](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a16d7bd915089668d66ee0c5137b118239)
-- [@DhravyaShah: But hold up! That&#39;s not even it! You can even publish cakes, or use other&#39;s cakes. Browse them at . Like one? Use the command `npx cc cut &lt;cake_name&gt;`And it will generate a boilerplate code so you can quickstart your project](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a16d7bd915099068dd60e3c5157b1d8f3f)
-- [@DhravyaShah: This is a hell lot of power and functionality in just ONE CakeFile! &lpar;Just like real cakes &rpar;Have a look at the example cakes to know how they are written](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a16d7bd915099062dc61e9c3167d148f33)
+- [@DhravyaShah: Github Copilot will be a subscription-based paid service after August 22.I will miss you #GitHubCopilot](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a1637fd7130c9365d168e2c4147d108839)
+- [@DhravyaShah: #NewProfilePic](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a1637cdd14099466d36ce5c01273128f3a)
+- [@DhravyaShah: Join our community of programmers -&gt;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a1637dd615089565d06ce0c7137e168d3f)
+- [@DhravyaShah: Happy #InternationalDayofYoga ! Just came back from an amazing yoga session. It feels so good! I want to do it every day now!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a1637dd712089464d368e8c7137b108b3b)
+- [@DhravyaShah: every day i feel more useless](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a16274d9100a9a66d06be1c61b7a178239)
 <!-- TWITTER:END -->
 
 
