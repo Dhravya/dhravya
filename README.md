@@ -39,11 +39,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@DhravyaShah: Twitter to expand into long-form content with the new Twitter Notes featureReally exciting!#Twitter @TechCrunch @tldrnewsletter](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a16378d710099662dd6fe7c0137b158c3d)
+- [@DhravyaShah: 300 followers !! 🥳🥳](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a16378d9150c9166d76de5ca1a791c8a3d)
+- [@FuelerHQ: Things you need to unlearn to thrive in creator economy• Having one skill is enough• You just need X certificate to get Y job• Do not ask many questions• Social Media is full of distractions• I can do everything by myself, I don&#39;t need to collab](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e392ab7edc7f0af2bca9573c6f60ab61368dddd61f7a76b7eda1c079661d368e5c61a79)
 - [@DhravyaShah: Github Copilot will be a subscription-based paid service after August 22.I will miss you #GitHubCopilot](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a1637fd7130c9365d168e2c4147d108839)
 - [@DhravyaShah: #NewProfilePic](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a1637cdd14099466d36ce5c01273128f3a)
-- [@DhravyaShah: Join our community of programmers -&gt;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a1637dd615089565d06ce0c7137e168d3f)
-- [@DhravyaShah: Happy #InternationalDayofYoga ! Just came back from an amazing yoga session. It feels so good! I want to do it every day now!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a1637dd712089464d368e8c7137b108b3b)
-- [@DhravyaShah: every day i feel more useless](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a16274d9100a9a66d06be1c61b7a178239)
 <!-- TWITTER:END -->
 
 
