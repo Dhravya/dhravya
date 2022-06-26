@@ -39,11 +39,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@DhravyaShah: Really useful thread!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a66a7ede13079565d26ce2c61a791c833b)
+- [@herculean017: I tried searching for happiness using binary search but my life isn&#39;t sorted](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e173aa0e2d7ee821b8bd63690ad0cb15d2d9d9d77f2a76e7ddf130f9a63dd61e4c7167d1c833bc1)
 - [@DhravyaShah: I now come up as the second &lpar;or sometimes third&rpar; link when you search for &quot;dhravya&quot; damn boi](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a66a7ddd15089b60d46fe2c217781d8e39)
 - [@DhravyaShah: Thank you so much @HSingh4698 for supporting me on @kofi_button ! 🥰](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a16375dc150d9262dd6ce6ca107f1c823c)
 - [@DhravyaShah: Twitter to expand into long-form content with the new Twitter Notes featureReally exciting!#Twitter @TechCrunch @tldrnewsletter](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a16378d710099662dd6fe7c0137b158c3d)
-- [@DhravyaShah: 300 followers !! 🥳🥳](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a16378d9150c9166d76de5ca1a791c8a3d)
-- [@FuelerHQ: Things you need to unlearn to thrive in creator economy• Having one skill is enough• You just need X certificate to get Y job• Do not ask many questions• Social Media is full of distractions• I can do everything by myself, I don&#39;t need to collab](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e392ab7edc7f0af2bca9573c6f60ab61368dddd61f7a76b7eda1c079661d368e5c61a79)
 <!-- TWITTER:END -->
 
 
