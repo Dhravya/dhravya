@@ -39,11 +39,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah: Really useful thread!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a66a7ede13079565d26ce2c61a791c833b)
-- [@herculean017: I tried searching for happiness using binary search but my life isn&#39;t sorted](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e173aa0e2d7ee821b8bd63690ad0cb15d2d9d9d77f2a76e7ddf130f9a63dd61e4c7167d1c833bc1)
-- [@DhravyaShah: I now come up as the second &lpar;or sometimes third&rpar; link when you search for &quot;dhravya&quot; damn boi](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a66a7ddd15089b60d46fe2c217781d8e39)
-- [@DhravyaShah: Thank you so much @HSingh4698 for supporting me on @kofi_button ! 🥰](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a16375dc150d9262dd6ce6ca107f1c823c)
-- [@DhravyaShah: Twitter to expand into long-form content with the new Twitter Notes featureReally exciting!#Twitter @TechCrunch @tldrnewsletter](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a16378d710099662dd6fe7c0137b158c3d)
+- [@DhravyaShah: I literally love @Railway so, so, so much! So easy to quickly deploy projects](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a66a7adc110d9060d168e2c21172168839)
+- [@Th3OnlyWayUp: Type checking is amazing, I&#39;ve been using it for a few months and it&#39;s helped me catch and pinpoint a ton of errors before I even run the program.Really cool :&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37e1ceccee9e2d849f52d7ad0cb15d2d9d9d77f2a76e7dda1d0d9a65d06ee9c71273118a33c0)
+- [@DhravyaShah: You can read the unrolled version of this thread here:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a66a78d71d0c9369dd60e3ca1279158c3c)
+- [@DhravyaShah: Ok now that&#39;s it 😄 Again, if you end up liking this thread, make sure to follow me @DhravyaShah and Theo @t3dotgg on Twitter, and Nexxel on Github. Share by retweeting the first tweet ❤️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a66a78d71d0c9367d76fe9c0127b1c883f)
+- [@DhravyaShah: But that&#39;s not it - There are some &lpar;many&rpar; recommendations I&#39;d like to include.For fetching and querying, use React-QueryFor Analytics, use @PlausibleHQ For Web hosting, use @vercel For infrastructure hosting, use @Railway 🧵 8/8](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a66a78d71d0c9364d361e1c1137e168d3e)
 <!-- TWITTER:END -->
 
 
