@@ -39,11 +39,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah: I literally love @Railway so, so, so much! So easy to quickly deploy projects](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a66a7adc110d9060d168e2c21172168839)
-- [@Th3OnlyWayUp: Type checking is amazing, I&#39;ve been using it for a few months and it&#39;s helped me catch and pinpoint a ton of errors before I even run the program.Really cool :&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37e1ceccee9e2d849f52d7ad0cb15d2d9d9d77f2a76e7dda1d0d9a65d06ee9c71273118a33c0)
-- [@DhravyaShah: You can read the unrolled version of this thread here:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a66a78d71d0c9369dd60e3ca1279158c3c)
-- [@DhravyaShah: Ok now that&#39;s it 😄 Again, if you end up liking this thread, make sure to follow me @DhravyaShah and Theo @t3dotgg on Twitter, and Nexxel on Github. Share by retweeting the first tweet ❤️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a66a78d71d0c9367d76fe9c0127b1c883f)
-- [@DhravyaShah: But that&#39;s not it - There are some &lpar;many&rpar; recommendations I&#39;d like to include.For fetching and querying, use React-QueryFor Analytics, use @PlausibleHQ For Web hosting, use @vercel For infrastructure hosting, use @Railway 🧵 8/8](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a66a78d71d0c9364d361e1c1137e168d3e)
+- [@DhravyaShah: @poet_this beautify blue 2](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a66b7ad6160a9261d36be5c614731c8d3f)
+- [@DhravyaShah: ANDDD 10K! We did it in ~59 days!That&#39;s actually wild.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a66b7ad6160d9064d66be3c4177a11893b)
+- [@DhravyaShah: If I provided any value with this thread, make sure to retweet the first tweet of the thread!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a66b7ade120b9b64dd6fe8c3137b158f32)
+- [@DhravyaShah: Honestly, I think i underperformed. I could have done much better even if the idea was just better, or won something if I was just a little better at design and frontend. But well, now I know what to improve so I can work on it](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a66b7ade120f9669d16ee2c6117317883d)
+- [@DhravyaShah: What went rightI learnt GOlangI decided to get really good at frontendI met Matt, who was really helpful throughout the processI realised that I shouldn&#39;t trust someone based on authority. even if they have won all the hackathons they have participated in](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a66b7ade120f9666dd6ae4c3177212833b)
 <!-- TWITTER:END -->
 
 
