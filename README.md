@@ -39,11 +39,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DhravyaShah: @poet_this beautify blue 2](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a66b7ad6160a9261d36be5c614731c8d3f)
-- [@DhravyaShah: ANDDD 10K! We did it in ~59 days!That&#39;s actually wild.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a66b7ad6160d9064d66be3c4177a11893b)
-- [@DhravyaShah: If I provided any value with this thread, make sure to retweet the first tweet of the thread!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a66b7ade120b9b64dd6fe8c3137b158f32)
-- [@DhravyaShah: Honestly, I think i underperformed. I could have done much better even if the idea was just better, or won something if I was just a little better at design and frontend. But well, now I know what to improve so I can work on it](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a66b7ade120f9669d16ee2c6117317883d)
-- [@DhravyaShah: What went rightI learnt GOlangI decided to get really good at frontendI met Matt, who was really helpful throughout the processI realised that I shouldn&#39;t trust someone based on authority. even if they have won all the hackathons they have participated in](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a66b7ade120f9666dd6ae4c3177212833b)
+- [@poet_this: You asked for it, you have it! All the major languages- Japanese, Hindi, Arabic, Chinese, Korean, Telugu, Bengali - Are supported now!Thank you for recommending the features and commenting!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30b7f5fdf68f1396c974d3e30bb04f76d9db6cf1a76f7bdb15069461d16ce4c1177b10)
+- [@DhravyaShah: 7 stars left!! My friend&#39;s github repository is gonna hit 500 stars very soon 🤩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a66878df14089666dc60e1c0147b1c8d3e)
+- [@DhravyaShah: How to use @poet_thisSimply mention the bot under any tweet!To customise, add a theme to it. Currently, there are 4 themes:Blue, Red, Green, Dark &lpar;3 types for each&rpar;The default theme will be used if not specified.Add the word &quot;all&quot; to beautify the entire thread.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a66879da110c9062d26ce9c210721d8e38)
+- [@DhravyaShah: @poet_this blue 2](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a66879dc10079a67dd6ce6c0177e148f3a)
+- [@DhravyaShah:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a6687ed9130c9b60d76fe2c7137d118f3f)
 <!-- TWITTER:END -->
 
 
