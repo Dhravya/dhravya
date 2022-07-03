@@ -23,6 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A whole new developer ecosystem: CakeCutter 🍰](https://dev.to/dhravya/a-whole-new-developer-ecosystem-cakecutter-5a3c)
+- [How I &lpar;organically&rpar; grew a Twitter bot account from 0 to 750 followers in 20 days.](https://dev.to/dhravya/how-i-organically-grew-a-twitter-bot-account-from-0-to-750-followers-in-20-days-5d1e)
+- [I was tired of making banners for my blogs, so I automated it](https://dev.to/dhravya/i-was-tired-of-making-banners-for-my-blogs-so-i-automated-it-5hnd)
+- [Introducing Audium - A &quot;Micro-Podcast&quot; social web app](https://dev.to/dhravya/introducing-audium-a-micro-podcast-social-web-app-18a9)
+- [Create the fastest search for your website in minutes, without any dependencies ⚡🔎](https://dev.to/dhravya/create-the-fastest-search-for-your-website-in-minutes-without-any-dependencies-56me)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
