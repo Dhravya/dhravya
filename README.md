@@ -39,11 +39,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@DhravyaShah: I&#39;ve &lpar;ONCE AGAIN!&rpar; used @Cruip_com&#39;s Simple template for the hero section of  ! It&#39;s so good, I couldn&#39;t resist *not* using it.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a66874d9110d9065d26de6c7137f138e39)
+- [@DhravyaShah: Launching Tweets .Beauty!You can now beautify tweets online, and also customise it according to your needs.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a66874da1c0e9668d76ee6cb1778158e39)
 - [@poet_this: You asked for it, you have it! All the major languages- Japanese, Hindi, Arabic, Chinese, Korean, Telugu, Bengali - Are supported now!Thank you for recommending the features and commenting!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30b7f5fdf68f1396c974d3e30bb04f76d9db6cf1a76f7bdb15069461d16ce4c1177b10)
 - [@DhravyaShah: 7 stars left!! My friend&#39;s github repository is gonna hit 500 stars very soon 🤩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a66878df14089666dc60e1c0147b1c8d3e)
 - [@DhravyaShah: How to use @poet_thisSimply mention the bot under any tweet!To customise, add a theme to it. Currently, there are 4 themes:Blue, Red, Green, Dark &lpar;3 types for each&rpar;The default theme will be used if not specified.Add the word &quot;all&quot; to beautify the entire thread.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a66879da110c9062d26ce9c210721d8e38)
-- [@DhravyaShah: @poet_this blue 2](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a66879dc10079a67dd6ce6c0177e148f3a)
-- [@DhravyaShah:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b37a0e0d4fb86298d876f88f10ba4482c9bc169f6a6687ed9130c9b60d76fe2c7137d118f3f)
 <!-- TWITTER:END -->
 
 
