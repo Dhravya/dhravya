@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/dhravyashah" target="blank"><img src="https://img.shields.io/twitter/follow/dhravyashah?logo=twitter&style=for-the-badge" alt="dhravyashah" /></a> </p>
 
-- 🔭 I’m currently working on [Tweets.beauty](https://tweets.beauty)
+- 🔭 I’m currently working on [LMFAO.tech](https://lmfao.tech)
 
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I’m currently learning **GoLang** and participating in hackathons
 
-- 👨‍💻 All of my projects are available at [https://github.com/dhravya?tab=repositories](https://github.com/dhravya?tab=repositories)
+- 👨‍💻 All of my projects are available on [My personal website](https://dhravya.dev/projects)
 
-- 📝 I regularly write articles on [https://blog.dhravya.dev](https://blog.dhravya.dev)
+- 📝 I regularly write articles on [https://dhravya.dev/blog](https://dhravya.dev/blog)
 
 - 💬 Ask me about **Python, Javascript, Typescript**
 
-- 📫 How to reach me **dhravyashah@gmail.com**
+- 📫 How to reach me - [Join my community on discord](https://discord.io/code), Send an email [hi@dhravya.dev](mailto:hi@dhravya.dev), [DM me on twitter](https://twitter.com/messages/compose?recipient_id=1136175005060878337). Always happy to talk!
 
 - ⚡ Fun fact **I am funny**
 
