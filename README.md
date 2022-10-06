@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Twitter bot in Python using Twitter APIv2 🚀🚀](https://dev.to/dhravya/creating-a-twitter-bot-in-python-using-twitter-apiv2-3pjo)
 - [Disco.pics - Free and open source image hosting service](https://dev.to/dhravya/discopics-free-and-open-source-image-hosting-service-ia9)
 - [How to ask for help](https://dev.to/dhravya/how-to-ask-for-help-2690)
 - [A whole new developer ecosystem: CakeCutter 🍰](https://dev.to/dhravya/a-whole-new-developer-ecosystem-cakecutter-5a3c)
 - [How I &lpar;organically&rpar; grew a Twitter bot account from 0 to 750 followers in 20 days.](https://dev.to/dhravya/how-i-organically-grew-a-twitter-bot-account-from-0-to-750-followers-in-20-days-5d1e)
-- [I was tired of making banners for my blogs, so I automated it](https://dev.to/dhravya/i-was-tired-of-making-banners-for-my-blogs-so-i-automated-it-5hnd)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
