@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/dhravyashah" target="blank"><img src="https://img.shields.io/twitter/follow/dhravyashah?logo=twitter&style=for-the-badge" alt="dhravyashah" /></a> </p>
 
-- 🔭 I’m currently working on [LMFAO.tech](https://lmfao.tech)
+- 🔭 I’m currently working on [Something big (WIP)](https://dhr.wtf)
 
-- 🌱 I’m currently learning **GoLang** and participating in hackathons
+- 🌱 I’m currently learning **Web development** and participating in hackathons
 
 - 👨‍💻 All of my projects are available on [My personal website](https://dhravya.dev/projects)
 
