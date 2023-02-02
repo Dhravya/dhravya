@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Need some advice!](https://dev.to/dhravya/need-some-advice-mm1)
 - [Deploy your functions and use them everywhere⚡⚡](https://dev.to/dhravya/deploy-your-functions-and-use-them-everywhere-43p3)
 - [Creating a Twitter bot in Python using Twitter APIv2 🚀🚀](https://dev.to/dhravya/creating-a-twitter-bot-in-python-using-twitter-apiv2-3pjo)
 - [Disco.pics - Free and open source image hosting service](https://dev.to/dhravya/discopics-free-and-open-source-image-hosting-service-ia9)
 - [How to ask for help](https://dev.to/dhravya/how-to-ask-for-help-2690)
-- [A whole new developer ecosystem: CakeCutter 🍰](https://dev.to/dhravya/a-whole-new-developer-ecosystem-cakecutter-5a3c)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
