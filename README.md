@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/L0um15/L0um15/cb872b0f3694efd47f5026166f0e14e3a19c9d4a/svg/webdevelopment.svg" width=500/>
+<img src="https://i.dhr.wtf/Clipboard_Nov_2,_2023_at_11.40 PM.png" width=500/>
 </div>
 <h1 align="center">Hi 👋, I'm Dhravya Shah</h1>
 <h3 align="center">Student developer from Mumbai, India</h3>
