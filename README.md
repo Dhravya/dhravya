@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.dhr.wtf/r/desktop-oil-painting.png" width=500/>
+[<img src="https://i.dhr.wtf/r/desktop-oil-painting.png" width=500/>](https://us-east-1.tixte.net/uploads/i.dhr.wtf/desktop-oil-painting.png)
 </div>
 <h1 align="center">Hi 👋, I'm Dhravya Shah</h1>
 <h3 align="center">Student developer from Mumbai, India</h3>
