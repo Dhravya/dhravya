@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Web development** and participating in hackathons
 
-- 👨‍💻 All of my projects are available on [My personal website](https://dhravya.dev/projects)
+- 👨‍💻 All of my projects are available on [My personal website](https://fueler.io/dhravya)
 
 - 📝 I regularly write articles on [https://dhravya.dev/blog](https://dhravya.dev/blog)
 
