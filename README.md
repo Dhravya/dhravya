@@ -5,7 +5,7 @@
 <h1 align="center">Hi I'm Dhravya Shah</h1>
 <h3 align="center">I build, ship, repeat.</h3>
 
-- 📫 How to reach me - [Join my community on discord](https://discord.io/code), Send an email [hi@dhravya.dev](mailto:hi@dhravya.dev), [DM me on twitter](https://twitter.com/messages/compose?recipient_id=1136175005060878337). Always happy to talk!
+- 📫 How to reach me - [Join my community on discord](https://dhr.wtf/code), Send an email [hi@dhravya.dev](mailto:hi@dhravya.dev), [DM me on twitter](https://twitter.com/messages/compose?recipient_id=1136175005060878337). Always happy to talk!
 
 
 <details>
